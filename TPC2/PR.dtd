@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT project-record (header,workteam, abstract, deliverables, date) >
+<!ELEMENT header (keyname, title, subtitle?, begin-date, end-date, supervisor) >
+<!ELEMENT keyname (#PCDATA) >
+<!ELEMENT title (#PCDATA) >
+<!ELEMENT  subtitle (#PCDATA) >
+<!ELEMENT begin-date (#PCDATA) >
+<!ELEMENT end-date (#PCDATA) >
+<!ELEMENT  supervisor (name-sv, um-page) >
+<!ELEMENT name-sv (#PCDATA) >
+<!ELEMENT um-page (#PCDATA) >
+<!ELEMENT workteam (member)+ >
+<!ELEMENT member ( name, number, email, git?) >
+<!ELEMENT name (#PCDATA) >
+<!ELEMENT number (#PCDATA) >
+<!ELEMENT email (#PCDATA) >
+<!ELEMENT git (#PCDATA) >
+<!ELEMENT abstract (paragrafo)+ >
+<!ELEMENT paragrafo (text|italic|bold|link)* >
+<!ELEMENT text (#PCDATA) >
+<!ELEMENT italic (#PCDATA) >
+<!ELEMENT bold (#PCDATA) >
+<!ELEMENT link (#PCDATA) >
+<!ELEMENT deliverables (deliverable)+ >
+<!ELEMENT deliverable (designation, link-d) >
+<!ELEMENT designation (#PCDATA) >
+<!ELEMENT link-d (#PCDATA) >
+<!ELEMENT date (#PCDATA) >

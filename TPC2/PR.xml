@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE project-record SYSTEM "file:/C:/Users/gabri/Desktop/DWeb2019/TPC2/PR.dtd">
+<project-record>
+    <header>
+        <keyname>PED_MICEI2002_TESES</keyname>
+        <title>Schema e Stylesheet para tratamento de teses em XML</title>
+        <begin-date>Setembro 2002</begin-date>
+        <end-date>Setembro 2002</end-date>
+        <supervisor>
+            <name-sv>José Carlos Ramalho</name-sv>
+            <um-page>http://www4.di.uminho.pt/~jcr/</um-page>
+        </supervisor>
+    </header>
+    <workteam>
+        <member>
+            <name>Guilherme António Teixeira</name>
+            <number>a98678657</number>
+            <email>guilherme.teixeira@neoplastica.com</email>
+        </member>
+    </workteam>
+    <abstract>
+        <paragrafo>
+            <text>
+                O XML, validado pelo schema, juntamente com o potente processamento via XSLT, permite dispor de
+            </text>
+            <italic>
+                facilidades acrescidas  
+            </italic>
+            <text>
+                no tratamento de informação de uma forma    
+            </text>
+            <bold>
+                standard e partilhável.
+            </bold>
+            <text>
+                Estas são, além de outras evidentes vantagens, as que abrem caminho a uma mais que provável evolução desta tecnologia nos círculos comerciais e de investigação. Outro facto importante, diz respeito à substituição de interfaces EDI por XML em aplicações bussiness oriented.
+            </text>
+        </paragrafo>
+        <paragrafo>
+            <text>
+                O trabalho apresentado contempla um  
+            </text>
+            <bold>schema, uma stylesheet, e a instância do schema</bold>
+            <text> em XML. A instância é o próprio relatório.</text>
+        </paragrafo>
+        <paragrafo>
+            <text>O trabalho pretende definir uma </text>
+            <italic>estrutura expedita e funcional,</italic>
+            <text>passível de ser aplicada a um trabalho descritivo, como por exemplo uma tese. Não é objectivo do trabalho criar uma implementação sistemática de todos os objectos possíveis, mas sim criar algumas utilizações mais comuns para exemplificar a potência destas linguagens.</text>
+        </paragrafo>
+        <paragrafo>
+            <text>
+                Ficam neste trabalho em aberto algumas ideias, a serem aplicadas mais tarde a quando da escrita da tese, ou pré-tese, porque na verdade o facto de manter o documento num formato exportável para vários formatos, para várias plataformas, e anotado, garante qualquer tratamento no futuro, constituindo uma vantagem muito importante a ter em conta.
+            </text>
+        </paragrafo>
+    </abstract>
+    <deliverables>
+        <deliverable>
+            <designation>Report (HTML version)</designation>
+            <link-d>http://www4.di.uminho.pt/~jcr/PROJS/micei2002/guilherme/ped_micei2002.html</link-d>
+        </deliverable>
+        <deliverable>
+            <designation>Report (XML version)</designation>
+            <link-d>http://www4.di.uminho.pt/~jcr/PROJS/micei2002/guilherme/ped_micei2002.xml</link-d>
+        </deliverable>
+        <deliverable>
+            <designation>XML Schema Definition (XSD)</designation>
+            <link-d>http://www4.di.uminho.pt/~jcr/PROJS/micei2002/guilherme/ped_micei2002.xsd</link-d>
+        </deliverable>
+        <deliverable>
+            <designation>XML Schema Documentation (HTML)</designation>
+            <link-d>http://www4.di.uminho.pt/~jcr/PROJS/micei2002/guilherme/schema_doc.html</link-d>
+        </deliverable>
+        <deliverable>
+            <designation>XSLT StyleSheet file (XSLT)</designation>
+            <link-d>http://www4.di.uminho.pt/~jcr/PROJS/micei2002/guilherme/ped_micei2002.xslt</link-d>
+        </deliverable>
+        <deliverable>
+            <designation>XmlSpy Project Definitions (XML)</designation>
+            <link-d>http://www4.di.uminho.pt/~jcr/PROJS/micei2002/guilherme/ped_micei2002.xml</link-d>
+        </deliverable>
+    </deliverables>
+    <date>09-09-2002</date>
+</project-record>
