@@ -1,0 +1,3 @@
+a) //IDENTI[../CONCEL = " Amares "]
+b) distinct-values(//CONCEL[../TIPO[@ASSUNTO="arqueossitio"]])
+c) //DESCRI[../CONCEL = " Montalegre "]
