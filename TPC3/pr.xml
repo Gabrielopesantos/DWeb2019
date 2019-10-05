@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "file:/C:/Users/gabri/Desktop/DWeb2019/TPC3/pr.dtd">
+<pr>
+    <metadata>
+        <keyname>TPC3_DWEB2019_MEI</keyname>
+        <title>TPC3</title>
+        <subtitle>Xlst stylesheets, páginas html</subtitle>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">Professor José Carlos Ramalho</supervisor>
+        <bdate>01/10/2019</bdate>
+        <edate>08/10/2019</edate>
+    </metadata>
+    <workteam>
+        <member>
+            <identifier>PG41076</identifier>
+            <name>João Gabriel Santos</name>
+            <email>pg41076@alunos.uminho.pt</email>
+            <git>https://github.com/gabrielopesantos</git>
+        </member>
+    </workteam>
+    <abstract>
+        <p>Realização de um website com uma <i>xslt</i> stylesheet.</p>
+        <p>Criação da página html com uma <b>xslt</b> stylesheet.</p>
+    </abstract>
+    <deliverables>
+        <deliverable path="?">PR (XSL version)</deliverable>
+        <deliverable path="?">PR (HTML version)</deliverable>
+        <deliverable path="?">Arqueo (XSL version)</deliverable>
+    </deliverables>
+</pr>
