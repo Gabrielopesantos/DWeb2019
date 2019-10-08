@@ -78,6 +78,7 @@
                         <tr>
                             <th>Quadro<td><xsl:value-of select="QUADRO"/></td></th>
                         </tr>
+                        <xsl:apply-templates select="ARQELEM/."/>
                     </table>
                     <hr/>
                     <address>
@@ -86,6 +87,10 @@
                 </body>
             </html>
         </xsl:result-document>
-
+    </xsl:template>
+    <xsl:template match="ARQELEM/.">
+        <tr>
+            <th>Tipo<td><xsl:value-of select="."/></td></th>
+        </tr>
     </xsl:template>
 </xsl:stylesheet>
