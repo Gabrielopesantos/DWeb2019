@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "file:/C:/Users/gabri/Desktop/DWeb2019/TPC3/pr.dtd">
+<pr>
+    <metadata>
+        <keyname>TPC4_DWEB2019_MEI</keyname>
+        <title>TPC4</title>
+        <subtitle>Tecnologias XML e nodeJS</subtitle>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">Professor José Carlos Ramalho</supervisor>
+        <bdate>08/10/2019</bdate>
+        <edate>15/10/2019</edate>
+    </metadata>
+    <workteam>
+        <member>
+            <identifier>PG41076</identifier>
+            <name>João Gabriel Santos</name>
+            <email>pg41076@alunos.uminho.pt</email>
+            <git>https://github.com/gabrielopesantos</git>
+        </member>
+    </workteam>
+    <abstract>
+        <p>Desenvolvimento de uma Stylesheet (XSL) para gerar um ficheiro XML para cada registo  (ARQELEM) dos Arqueossítios.</p>
+        <p>Desenvolvimento de um servidor em nodeJS que permite abrir todos os arqueossitios dos ficheiros XML separadamente.</p>
+    </abstract>
+    <deliverables>
+        <deliverable path="?">PR (XSL version)</deliverable>
+        <deliverable path="?">PR (HTML version)</deliverable>
+        <deliverable path="?">Arqueo (XSL version)</deliverable>
+        <deliverable path="?">NodeJS Server</deliverable>
+    </deliverables>
+</pr>
