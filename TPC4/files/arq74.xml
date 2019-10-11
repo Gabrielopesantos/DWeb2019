@@ -1,54 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Necrópole Megalítica do Maciço do Borrelho </IDENTI>
-  <DESCRI> Necrópole megalítica </DESCRI>
-  <CRONO> Pré-História</CRONO>
-  <LUGAR/>
-  <FREGUE> Codeceda; Dossãos; Duas Igrejas; Godinhaços; Gondiães; Mós;Pedregais; Picos de Regalados;
-   Portela das Cabras. </FREGUE>
-  <CONCEL> Vila Verde </CONCEL>
-  <CODADM> 031338 </CODADM>
-  <ALTITU> 496m </ALTITU>
-  <ACESSO> O acesso faz-se a partir da sede do concelho. </ACESSO>
-  <QUADRO>O maciço do Borrelho compreende a área situada entre os montes do MoínhoVelho e o de S.
-   Miguel-o-Anjo.Seguindo um critério hidrográfico podemos delimitar o maciço, a Norte eOeste, pelo
-   rio Neiva, a Sul, pela ribeira do Rojão a Este, pelas ribeirasdo Tojal e da Veiga, pertencentes à
-   bacia hidrográfica do Rio Homem.Constituindo divisória natural entre as bacias do Neiva e do
-   Cávado, omaciço toma o nome de Borrelho que lhe advém do monte epónimo.As zonas mais elevadas são
-   formadas por vastas chãs planálticas que ocupamuma área de 6,5Km no sentido NE-SW. Tem vertentes
-   relativamente abruptasembora existam algumas chãs e remates de esporões com boas possibilidades
-   deocupação.A paisagem actual é essencialmente aberta predominando uma vegetaçãoarbustiva e
-   herbácea, com resquícios arbóreos de pereira selvagem e algumasmanchas de pinheiros e eucaliptos
-   de introdução recente. </QUADRO>
-  <TRAARQ>Prospecção da necrópole e escavação da <LIGA TERMO="mamoa"> Mamoa</LIGA> nº10 do Chão da
-   Cheira. </TRAARQ>
-  <DESARQ>O arqueossítio do maciço do Barrelho compreende 36 monumentos com tumulus,distribuídos na
-   paisagem de forma isolada ou em núcleos.Reconhecemos um núcleo de 20 <LIGA TERMO="mamoa">
-    mamoas</LIGA> no Chão daCheira; um núcleo de 10 no Lameiro da Vaca; 1 núcleo de 2 no Moinho
-   Velho eoutro com 2 monumentos nos Penedos da Portela. Os monumentos isoladosdistribuem-se pelo
-   Alto da Maronda e pelo Chão do Couce.Pelo trabalho de prospecção aí efectuado distinguimos
-   monumentos de câmarasimples e dólmens de corredor.Apesar da exiguidade de escavações neste local,
-   por comparação com outrosconjuntos de monumentos com tumulus do NO peninsular, pensamos
-   poderatribuir a primeira ocupação do planalto, para fins sepulcrais, ao V/IVºmilénios A.C., ou
-   seja, ao Neolítico Antigo. Deste período datariam, quermonumentos pouco perceptíveis na paisagem,
-   com câmaras simples, de dimensõesmédias e espólio, relativamente escasso, quer o início de
-   construções maiscomplexas, com reocupações posteriores. Incluimos nesta fase o monumentonº10 do
-   Chão de Cheira.Durante o III milénio A.C. ter-se-ia generalizado a construção de novosmonumentos
-   a todo o planalto e, provavelmente, reocupado ou construídoalguns dólmens de corredor. Foram
-   reconhecidos 3 monumentos deste tipo noChão da Cheira, 1 no Lameiro da Vaca e 1 no Moinho
-   Velho.Por último, e por comparação com a serra da Aboboreira, intregaríamos no IIºmilénio A.C.,
-   os túmulos pouco perceptíveis na paisagem, com diâmetrosreduzidos, frequentemente isolados ou na
-   periferia dos núcleos.A perpetuação do ritual de inumação, durante mais de dois mil anos,
-   emmonumentos construídos segundo uma mesma tradição arquitectónica - a pedra eacumulação de terra
-   - deverá relacionar-se com a permanência de ocupaçõespopulacionais, na área em questão.O planalto
-   do Borrelho, onde os monumentos assinalariam um territóriosagrado, frequentemente reutilizado,
-   contituiriam, também, um espaço dosvivos, construído e transformado física e simbolicamente pelas
-   comunidadesque aí materializariam um dos seus rituais de passagem - a morte. </DESARQ>
-  <INTERP> Necrópole megalítica datada entre o V e o II milénio a.C..</INTERP>
-  <BIBLIO>REGALO, H (1986). Levantamento Arqueológico do Concelho de Vila Verde -Notícia Preliminar,
-   Mínia, Braga, 8, pp. 70-110. </BIBLIO>
-  <BIBLIO> BETTENCOURT, A.(1991/1992). A mamoa nº10 do Chão da Cheira (Maciçodo Borrelho - Vila
-   Verde), Cadernos de Arqueologia, Braga, 8/9, pp.43-65.</BIBLIO>
-  <AUTOR>Ana M. S. Bettencourt </AUTOR>
+  <IDENTI> Santar </IDENTI>
+  <DESCRI> Igreja </DESCRI>
+  <CRONO> Idade Média</CRONO>
+  <LUGAR> Santar </LUGAR>
+  <FREGUE> Santar </FREGUE>
+  <CONCEL> Arcos de Valdevez </CONCEL>
+  <CODADM> 160138 </CODADM>
+  <LATITU> 539,1 </LATITU>
+  <LONGIT> 176,1 </LONGIT>
+  <ALTITU> 50m </ALTITU>
+  <ACESSO>Junto à aldeia de Santar. O acesso faz-se por estrada municipal a partir daestrada
+   nacional EN.202-1 (um ramal que liga as EN.101 - Arcos a Ponte daBarca e EN.202 - Arcos a Ponte
+   de Lima). O monumento não está sinalizado.</ACESSO>
+  <DESARQ>Nas paredes laterais da <LIGA TERMO="ábside"> ábside</LIGA> da igrejaparoquial de Santa
+   Maria de Santar, que foi vigararia de apresentação daComenda de Távora, conservam-se, bastante
+   mutilados, alguns <LIGA TERMO="modilhão"> modilhões</LIGA> que compunham o coroamento das paredes
+   daedificação românica, profundamente alterada por sucessivas remodelações eampliações
+   posteriores.</DESARQ>
+  <INTERP>Igreja de fundação medieval.</INTERP>
+  <INTERE>Trata-se de um monumento sem relevância histórica local e de escasso valorcientífico e
+   patrimonial, interessando apenas à compreensão da difusão do <LIGA TERMO="românico">
+    românico</LIGA> na região.</INTERE>
+  <BIBLIO>ALMEIDA, C.A.F.(1987) Alto Minho, (novos guias de Portugal, 5), EditorialPresença, Lisboa,
+   1987. </BIBLIO>
+  <BIBLIO> BARREIROS, M.A. (1926) Egrejas e Capelas Romanicas da Ribeira Lima,Edições Marques Abreu,
+   Porto, 1926. </BIBLIO>
+  <AUTOR> Luís Fontes </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

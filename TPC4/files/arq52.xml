@@ -1,36 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Castro de Escariz; Santo Isidoro; Santos Ilus </IDENTI>
-  <DESCRI>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
-  </DESCRI>
-  <CRONO> Proto-Hitória / Romanização </CRONO>
-  <LUGAR> Castro de Escariz </LUGAR>
-  <FREGUE> Escariz-S. Mamede </FREGUE>
-  <CONCEL> Vila Verde </CONCEL>
-  <CODADM> 031345 </CODADM>
-  <LATITU> 518,6 </LATITU>
-  <LONGIT> 166,5 </LONGIT>
-  <ALTITU> 235m </ALTITU>
-  <ACESSO>O acesso a este povoado faz-se a partir de Escariz.</ACESSO>
-  <QUADRO>O monte onde assenta o <LIGA TERMO="castro"> castro</LIGA> ocupa o extremonorte de uma
-   estreita crista montanhosa, que se desenvolve no sentidoNorte/Sul, entre S. Martinho de Escariz e
-   Parada de Gatim, paralela ao rioNeiva, tendo como ponto mais alto o lugar de Barrosas, com 248m
-   dealtitude.</QUADRO>
-  <TRAARQ>Não são conhecidos trabalhos arqueológicos no local.</TRAARQ>
-  <DESARQ>O povoado possui três plataformas e três linhas de muralhas. À superfícierecolhem-se
-   fragmentos de <LIGA TERMO="cerâmica micácea"> cerâmicamicácea</LIGA> e <LIGA TERMO="tégula">
-    tégulas</LIGA> , sendo visíveis restosde construções habitacionais. Na Casa do Povo de Escariz
-   existe uma móproveniente do <LIGA TERMO="castro"> castro</LIGA> . No Museu Pio XII, emBraga está
-   guardada uma pedra decorada proveniente deste mesmo sítio,inventariada com o nº 22. A pedra
-   ostenta, numa das faces, dois cordõesparalelos.</DESARQ>
-  <INTERP>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA> romanizado.</INTERP>
-  <DEPOSI> Museu Pio XII, em Braga.</DEPOSI>
-  <BIBLIO> AZEVEDO, P. A.(1898). Extractos archeologicos das memoriasparochiais de 1758, Arqueólogo
-   Português, 2 (1896). pp.143. </BIBLIO>
-  <BIBLIO>MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização da Bacia doCurso do Médio
-   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 101-102. </BIBLIO>
+  <IDENTI> Outeiro das Corças </IDENTI>
+  <DESCRI> Necrópole megalítica </DESCRI>
+  <CRONO>Pré-História Recente</CRONO>
+  <LUGAR> Listoso </LUGAR>
+  <FREGUE> Passos (S. Vicente) </FREGUE>
+  <CONCEL> Fafe </CONCEL>
+  <CODADM> 030719 </CODADM>
+  <LATITU> 501,4 </LATITU>
+  <LONGIT> 193,2 </LONGIT>
+  <ALTITU> 530m </ALTITU>
+  <ACESSO>Faz-se a partir da E. N. 207 (Braga - Fafe), toma-se o C.M. 1625 até S.Vicente de Passos.
+   Depois, até Listoso pelo C.M. 1645-1. </ACESSO>
+  <QUADRO>Os monumentos localizam-se numa chã planáltica, integrada na baciahidrográfica do rio
+   Ave.</QUADRO>
+  <DESARQ>Duas <LIGA TERMO="mamoa"> mamoas</LIGA> muito destruídas, certamentepertecente a uma
+   necrópole megalítica que ocuparia a chã planaltica.</DESARQ>
   <AUTOR> Manuela Martins </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

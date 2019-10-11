@@ -1,36 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Ribeira da Pala; Dornelas; Paredes Secas </IDENTI>
-  <DESCRI>
-   <LIGA TERMO="miliário"> Miliário</LIGA>
-  </DESCRI>
-  <CRONO> Romanização </CRONO>
-  <LUGAR> Na margem direita da Ribeira da Pala </LUGAR>
-  <FREGUE> Paredes Secas </FREGUE>
+  <IDENTI> Quinta de Rios de Cima </IDENTI>
+  <DESCRI> Pedestal de estátua </DESCRI>
+  <CRONO>Romanização</CRONO>
+  <LUGAR> Quinta de Rios de Cima </LUGAR>
+  <FREGUE> Caires </FREGUE>
   <CONCEL> Amares </CONCEL>
-  <CODADM> 030115 </CODADM>
-  <LATITU> 520,9 </LATITU>
-  <LONGIT> 183,6 </LONGIT>
-  <ALTITU> 260m </ALTITU>
-  <ACESSO> O miliário encontra-se no adro da igreja paroquial de ParedesSecas. </ACESSO>
-  <QUADRO>O miliário foi encontrado, em 1957, na margem direita da Ribeira da Pala, emDornelas, não
-   muito longe do local onde tradicionalmente se admite apassagem da Via Nova. </QUADRO>
-  <DESARQ> O miliário está fracturado e apresenta a inscrição muito gasta. Asua leitura é difícil,
-   devido, também, à qualidade do granito, que apresentamuitos cristais de quartzo, que dificultaram
-   a gravação. Altura: 159;diâmetro: 66; Letras: 7 e 8.[IMP(erator) CAES(ar) G(aius)] IVLIV[S]
-   V[ERVS] / MAXIMINVS P(ius).F(elix).AVG(ustus). TRIB(unicia) PO / [TE]S[TATE]. [CO](n)S(ul).
-   [PRO]CO(n)S(ul) [ET ] G(aius) IVLIVS VERVS MAXIMVS / NOBILISSIMVS CAESAR /GERM(anicus) MAX(imus)
-   DAC(ius) MAX(imus) / PRINCEPS IVVENTVTIS FILIVSD(omini) N(ostri) IMP(eratoris) G(aii) IVLI(i) /
-   VERI MAXIMINI P(ii)F(elici) AVG(usti) / CVRANTE Q(uinto) DECI[O VALER(iano)] / LEG(ato)AVG(usti)
-   PR(o) [PR(etore)] / [BR]AC(ara) AVG(usta) M(ilia) P(assuum) XII(duodecim).Imperador César Gaio
-   Júlio Vero Maximino, Pio, Feliz, Augusto, dotado depoder tribunício, cônsul, procônsul, e Gaio
-   Júlio Vero Máximo, mui nobreCésar, Germânico Máximo, Dácico Máximo, Sarmântico Máximo, Príncipe
-   dajuventude, filho do nosso senhor Imperador Gaio Júlio Vero Máximo, Pio,Feliz, Augusto. Sendo
-   encarregado Quinto Décio Valeriano, legado de Augusto,propretor. De Braga são doze milhas. </DESARQ>
-  <INTERP> Miliário pertencente à Via Nova (Geira), datado de236-238.</INTERP>
-  <BIBLIO> CUNHA, A. R. (1961). Um miliário inédito, O Distrito de Braga, 1(3-4), Braga, pp.319-334. </BIBLIO>
-  <BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização daBacia do Curso do Médio
-   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 68-69. </BIBLIO>
-  <AUTOR>Manuela Martins</AUTOR>
+  <CODADM> 030105 </CODADM>
+  <LATITU> 519,3 </LATITU>
+  <LONGIT> 181,3 </LONGIT>
+  <ALTITU> 170m </ALTITU>
+  <QUADRO>Monumento identificado em 1983, no decorrer do levantamento arqueológico deAmares,
+   realizado pela U. A. U. M.. Embora encontrado na Quinta de Rios deCima, onde pode ser visto,
+   desconhece-se o sítio exacto da sua proveniência,sabendo-se que foi usado como material de
+   construção na capela de S.Vicente, demolida em 1815.</QUADRO>
+  <DESARQ>Monumento em granito, correspondente ao pedestal de uma estátua, cominscrição latina,
+   dedicado ao Génio. Encontra-se praticamente intacto,evidenciando excelente qualidade de execução
+   dentro dos cânones clássicos.Ao centro da face superior, plana, existe uma cavidade quadrangular,
+   commoldura rebaixada, que servia para encaixar a estátua da divindadehomenageada.Dimensões:39x37;
+   88x33x31; 33x38; campo epigráfico: 47x33.Inscrição:Q (uintus). SABI/ NIVS. FLO/ RVS. GEN/ IO.
+   V(otum). S (olvit). L (ibens). M(erito).Quinto Sabínio Floro cumpriu de bom grado o voto ao
+   Génio, digno demerecimento.Pela tipologia e pelas características paleográficas do texto o
+   monumentodatará do séc I da nossa era. </DESARQ>
+  <INTERP>Pedestal de estátua dedicado ao Génio, datado do séc. I. </INTERP>
+  <BIBLIO>ENCARNAÇÃO, J. de (1985). O Culto ao Génio no Noroeste peninsular, Cadernosde Arqueologia,
+   Série II, 2, Braga, pp. 41-49. </BIBLIO>
+  <AUTOR> Manuela Martins </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

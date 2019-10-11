@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Bouro (Santa Maria) </IDENTI>
+  <IDENTI> Queijeiros </IDENTI>
   <DESCRI>
    <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
   </DESCRI>
-  <CRONO> Proto-História</CRONO>
-  <LUGAR> Monte do Outeiro </LUGAR>
-  <FREGUE> Bouro (Santa Maria) </FREGUE>
-  <CONCEL> Amares </CONCEL>
-  <CODADM> 030120 </CODADM>
-  <LATITU> 521,3 </LATITU>
-  <LONGIT> 186,9 </LONGIT>
-  <ALTITU> 175m </ALTITU>
-  <ACESSO>O acesso ao local pode fazer-se por caminho carreteiro, a partir da estradanacional
-   Amares-Gerês, em direcção ao lugar de Outeiro.</ACESSO>
-  <QUADRO>O monte do Outeiro corresponde a um pequeno cabeço, situado perto do rioCávado, numa zona
-   razoavelmente plana de um terraço fluvial.</QUADRO>
-  <DESARQ>O povoado possui uma única plataforma, no topo do cabeço, que se encontracircundada por um
-   talude. Este parece corresponder a uma estrutura defensiva. Na superfície do solorecolhem-se
-   fragmentos de tijoleira e são visíveis pedras, correspondentes a derrubes de estruturas. No
-   entanto, nãose registam quaisquer alinhamentos coerentes. Trata-se, aparentemente, de um povoado
-   de baixa altitude, provavelmenteromanizado, semelhante ao povoado do Lago, em Amares. </DESARQ>
+  <CRONO>Proto -História</CRONO>
+  <LUGAR> Queijeiros </LUGAR>
+  <FREGUE> Abade de Neiva </FREGUE>
+  <CONCEL> Barcelos </CONCEL>
+  <CODADM> 030201</CODADM>
+  <LATITU> 510,55 </LATITU>
+  <LONGIT> 156,4 </LONGIT>
+  <ALTITU> 150m </ALTITU>
+  <ACESSO>O acesso faz-se pela E. N. 103, aproximadamente ao Km 15, no lado esquerdoda
+   estrada.</ACESSO>
+  <QUADRO>O povoado localiza-se numa pequena elevação situada numa zona agrícola,relativamente plana
+   e bem irrigada por diversos cursos de água.</QUADRO>
+  <TRAARQ> Não são conhecidos trabalhos arqueológicos no local.</TRAARQ>
+  <DESARQ>Nos lados Norte e Oeste do cabeço são ainda visíveis restos de umafortificação, feita com
+   pedras não aparelhadas. Na superfície recolhem-sealguns fragmentos de <LIGA TERMO="tégula">
+    tégulas</LIGA> e pedrasdispersas, provenientes da destruição de estruturas. No entanto, não
+   seobservam quaisquer alinhamentos de muros. O povoado parece ter possuídoapenas uma plataforma,
+   podendo, portanto, ser considerado como povoadoproto-histórico de baixa altitude, semelhante ao
+   povoado de Lago, emAmares.</DESARQ>
   <INTERP>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA> proto-histórico. </INTERP>
-  <BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Histórico e a romanização da Bacia doMédio Cávado,
-   Cadernos de Arqueologia - Monografias, 5, Universidade doMinho, Braga, pp. 70-71. </BIBLIO>
-  <AUTOR>Manuela Martins </AUTOR>
-  <TRAARQ>Não são conhecidos trabalhos arqueológicos no local. </TRAARQ>
+   <LIGA TERMO="povoado fortificado"> povoado fortificado</LIGA> proto-histórico. </INTERP>
+  <BIBLIO> COSTA, A. G.; A. M. FARIA; J. S. CARVALHO (1980). Sondagensarqueológicas no concelho de
+   Barcelos: Abade de Neiva, Faria e Roriz, ISeminário de arqueologia do Noroeste Peninsular, 2, pp.
+   11. </BIBLIO>
+  <BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Histórico e romanização da Bacia doCurso do Médio
+   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 72-73. </BIBLIO>
+  <AUTOR> Manuela Martins </AUTOR>
   <DATA>04-Fev-1998</DATA>
  </ARQELEM>

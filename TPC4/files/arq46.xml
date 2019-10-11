@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Lugar de Gaião </IDENTI>
-  <DESCRI>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
-  </DESCRI>
-  <CRONO> Proto-História</CRONO>
-  <LUGAR> Lugar de Gaião </LUGAR>
-  <FREGUE> Cabanelas </FREGUE>
-  <CONCEL> Vila Verde </CONCEL>
-  <CODADM> 021308 </CODADM>
-  <LATITU> 511,6 </LATITU>
-  <LONGIT> 170,0 </LONGIT>
-  <ALTITU> 60/70m </ALTITU>
-  <ACESSO>O acesso mais fácil é feito a partir de Parada de Gatim, atravessando o rioCávado de
-   barca.</ACESSO>
-  <QUADRO>Pequeno cabeço de baixa altitude, sobranceiro ao rio Cávado. A zona oeste domonte
-   encontra-se alterada pela construção de casas e por caminhos.</QUADRO>
-  <TRAARQ>Não são conhecidos trabalhos arqueológicos no local.</TRAARQ>
-  <DESARQ>O povoado possui uma única plataforma, correspondente à zona mais alta domonte. Nos seus
-   limites é possível perceber vestígios de um taludedefensivo. A Oeste, na zona em que o cabeço se
-   liga naturalmente a outros,formando um pequeno esporão paralelo ao rio, são perceptíveis
-   vestígios deum fosso, que deveria reforçar a defesa desse lado do povoado. Apesar da suabaixa
-   altitude o povoado possui boas defesas naturais, asseguradas pelasvertentes mais ou menos
-   abruptas do cabeço. Na sua superfície vêem-se pedrastoscamente aparelhadas e fragmentos de <LIGA TERMO="cerâmica micácea">cerâmica micácea</LIGA> e romana. </DESARQ>
-  <INTERP>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA> proto-histórico.</INTERP>
-  <BIBLIO> MARTINS, M. (1990). O Povoamento Proto-Histórico e a Romanização daBacia do Curso Médio
-   do Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 96-97. </BIBLIO>
-  <AUTOR> Manuela Martins </AUTOR>
+  <IDENTI> Monte do Castro </IDENTI>
+  <DESCRI> Povoado </DESCRI>
+  <CRONO> Proto-história / Romanização</CRONO>
+  <LUGAR> Castro </LUGAR>
+  <FREGUE> S. João de Rei </FREGUE>
+  <CONCEL> Póvoa de Lanhoso </CONCEL>
+  <CODADM> 030923 </CODADM>
+  <LATITU> 516,4 </LATITU>
+  <LONGIT> 186,5 </LONGIT>
+  <ALTITU> 202m </ALTITU>
+  <ACESSO>Faz-se a partir do lugar da Devesa por estrada municipal. </ACESSO>
+  <QUADRO>O povoado localiza-se num remate de um esporão de média altitude, navertente noroeste de
+   Santo Tirso. A vertente oeste deste povoado é abrupta,mas as restantes são suaves permitindo um
+   fácil acesso ao planalto e ao valeda ribeira do castro.</QUADRO>
+  <TRAARQ>Escavações em 1993, realizadas por Ana M. S. Bettencourt (U.A.U.M.).</TRAARQ>
+  <DESARQ>A análise do espólio de superfície e das escavações realizadas, em 1993, nasvárias
+   vertentes e na plataforma superior do monte permitiram concluir aexistência de vários momentos de
+   ocupação. À Idade do Bronze fazemoscorresponder o bipene metálico, encontrado nas vertentes norte
+   ou oeste,aquando do corte da estrada que dá acesso ao centro da freguesia. A esteperíodo
+   associamos, também, os fragmentos cerâmicos exumados nas escavações,cujo fabrico e forma
+   paralelizam com louça da primeira metade do Iº milénioa.C.. Na Idade do Ferro Inicial inserimos
+   fragmentos cerâmicos, algumasestruturas perecíveis, supostamente de armazenagem de cereais e
+   umaquantidade considerável de sementes de trigo. Ao Ferro Recentecorresponderá, por sua vez, um
+   conjunto de olaria, contas de colar eobjectos metálicos, bem conhecidos noutros povoados da
+   região. Predominamainda as estruturas perecíveis. A etapa da <LIGA TERMO="romanização">romanização</LIGA> está bem marcada por construções pétreas e por espóliocerâmico e metálico
+   característico deste período. </DESARQ>
+  <INTERP>Povoado da Idade do Bronze, da Idade do Ferro, romanizado. </INTERP>
+  <DEPOSI>Museu D. Diogo de Sousa. </DEPOSI>
+  <BIBLIO>BELLINO, A. (1909), Cidades mortas, Arqueólogo Português, 14 (1-8), Lisboa,pp. 6. </BIBLIO>
+  <BIBLIO> CORTEZ, F. R. (1946), Machados e outros objectos de bronze. MuseuNacional Soares dos
+   Reis, Porto. </BIBLIO>
+  <BIBLIO> MARTINS, M. (1990), O Povoamento Proto-Histórico e a Romanização daBacia do Curso Médio
+   do Cávado, Cadernos de Arqueologia, Monografias, 5,Universidade do Minho, Braga, pp. 92. </BIBLIO>
+  <AUTOR> Ana M.S. Bettencourt </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

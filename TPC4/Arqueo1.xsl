@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     version="2.0">
     <xsl:template match="//ARQELEM">
-        <xsl:result-document href="files/arq{position()}.xml">
+        <xsl:result-document href="files/arq{count(preceding::ARQELEM) + 1}.xml">
                 <xsl:copy-of select="."/>
         </xsl:result-document>
     </xsl:template>

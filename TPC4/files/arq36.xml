@@ -1,64 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Monte da Senhora do Pilar; Castro de Lanhoso </IDENTI>
-  <DESCRI> Povoado da <LIGA TERMO="pré-história recente"> pré-históriarecente</LIGA> ; <LIGA TERMO="povoado fortificado"> povoadofortificado</LIGA>
-  </DESCRI>
-  <CRONO>Pre-História Recente / Proto-História / Romanização </CRONO>
-  <LUGAR> Monte do Castelo </LUGAR>
-  <FREGUE> Póvoa de Lanhoso </FREGUE>
-  <CONCEL> Póvoa de Lanhoso </CONCEL>
-  <CODADM> 030919 </CODADM>
-  <LATITU> 512,8 </LATITU>
-  <LONGIT> 187,6 </LONGIT>
-  <ACESSO>O acesso faz-se por estrada alcatroada, a partir da estrada Braga/Póvoa deLanhoso. </ACESSO>
-  <QUADRO>O Monte do Castelo corresponde a um esporão, de altitude média, do maciçomontanhoso
-   conhecido por Lage Grande, que divide as bacias do Cávado e doAve. O povoado encontra-se virado a
-   um pequeno vale fértil e bem irrigado,no qual confluem as ribeiras da Póvoa, Pereira e Pregal,
-   pertencentes àbacia hidrográfica do Ave. A parte mais alta do monte é constituída por umimponente
-   afloramento rochoso.</QUADRO>
-  <TRAARQ>O povoado foi objecto de trabalhos arqueológicos esporádicos ao longo doséc. XX,
-   designadamente, nos anos 30, por C. Teixeira e, em 1982, por K.Petruso, da Universidade de
-   Boston.</TRAARQ>
-  <DESARQ>Os vestígios melhor conservados do povoado concentram-se na vertente este domonte, virada
-   ao vale do Ave, distribuindo-se pelos terrenos contíguos àestrada que dá acesso ao castelo
-   medieval, existente no alto do monte. Asestruturas dispõem-se em pequenos socalcos e foram
-   escavadas por CarlosTeixeira. São sobretudo casas de pedra, de planta circular e algumas deplanta
-   rectangular. Nalguns pontos, observam-se ainda restos de pavimentoslageados. Na vertente este,
-   são ainda visíveis restos de uma fortificação,que deveria rodear a plataforma onde se encontram
-   as estruturas. Étotalmente impossível definir quantas muralhas possuiria o povoado. Defacto, este
-   encontra-se bastante alterado pelas construções existentes navertente, pelas terraplanagens para
-   a construção dos parques e ainda peladensa mata que cobre o cabeço. São numerosos os achados
-   procedentes dopovoado.A análise do espólio das escavações realizadas, na encosta este do
-   povoado,por C. Teixeira, nos anos 30 e por K. Petruso, em 1982, permitiram detectarvários
-   momentos de ocupação anteriores à <LIGA TERMO="romanização">romanização</LIGA> . O mais antigo,
-   associado a cerâmicas com decoraçãoincisa, metopada, de tipo "Penha", poderá atribuir-se ao
-   Calcolítico. Oseguinte, ao qual correspondem formas cerâmicas com caracteristicas
-   técnicassemelhantes à fase I de S. Julião e Barbudo, bem como um punhal, em bronze,deverá
-   integra-se no 1º quartel do Iº milénio a.C. As estruturas pétreas,ainda visíveis à superfície,
-   bem como uma série de artefactos metálicos ecerâmicos aí detectados identificam ocupações da
-   Idade do Ferro e da <LIGA TERMO="romanização"> romanização</LIGA> .À Idade do Ferro pertencerão,
-   também, alguns dos objectos metálicosrecolhidos, nomeadamente os dois <LIGA TERMO="torques">
-    torques</LIGA> , ocapacete de bronze e dois br+aceletes de ouro, em depósito no Museu D. Diogode
-   Sousa, em Braga.Na plataforma superior ergue-se um castelo de origem medieval. </DESARQ>
-  <INTERP>Povoado com ocupação do Calcolítico, da Idade do Bronze, da Idade doFerro, romanizado e
-   com ocupação da Idade Média. </INTERP>
-  <DEPOSI>Casa da Botica, Póvoa do Lanhoso; Museu D. Diogo de Sousa.</DEPOSI>
-  <BIBLIO> CARDOSO, M. e GARCIA e BELLIDO (1946). El casco de Lanhoso, ArquivoEspañol de
-   Arqueologia, Madrid , 19 (65), pp.356-358. </BIBLIO>
-  <BIBLIO> TEIXEIRA, C. (1939). Os torques do Castro de Lanhoso, Póvoa deLanhoso, Anais da Faculdade
-   de Ciências do Porto , 24 (4), pp.245-252.</BIBLIO>
-  <BIBLIO> TEIXEIRA, C. (1940a), O Castro de Lanhoso e seu espólio, IºCongresso do Mundo Português ,
-   1, Lisboa, pp. 517 e segs.. </BIBLIO>
-  <BIBLIO> TEIXEIRA, C. (1940b), Notas arqueológicas sobre o Castro deLanhoso, Trabalhos da
-   Sociedade Portuguesa de Antropologia e Etnologia, 9(1-2), pp. 245 e segs. </BIBLIO>
-  <BIBLIO> TEIXEIRA , C. (1941), Hallazgo arqueologico notable (un cascocéltico de Portugal),
-   Ampurias, 3, Barcelona, pp.138 e segs. </BIBLIO>
-  <BIBLIO> PETRUSO, K. M. (1982), Castro de Lanhoso, Portugal: results of thefirst season, Context,
-   2 (3), Ed. Boston University, pp.1 e 4-6. </BIBLIO>
-  <BIBLIO> MARTINS, M. (1990). O Povoamento Proto-Histórico e a Romanização daBacia do Curso Médio
-   do Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp.68. </BIBLIO>
-  <BIBLIO> BETTENCOURT, A. M. S. (1993/94), A ocupação da Idade do Bronze doCastro de Lanhoso, Póvoa
-   de Lanhoso, Cadernos de Arqueologia, nº10/11,Braga, pp. 153-180. </BIBLIO>
-  <AUTOR> Manuela Martins </AUTOR>
+  <IDENTI>Monte da Santinha / Monte de Nossa Senhora da Paz </IDENTI>
+  <DESCRI> Povoado da Pré-História recente; Povoado fortificado</DESCRI>
+  <CRONO> Pré-História Recente / Proto-História</CRONO>
+  <LUGAR/>
+  <FREGUE> Amares </FREGUE>
+  <CONCEL> Amares </CONCEL>
+  <CODADM> 030101 </CODADM>
+  <LATITU>518,3 </LATITU>
+  <LONGIT>182,3 </LONGIT>
+  <ALTITU>195m </ALTITU>
+  <ACESSO> O acesso ao povoado pode fazer-se a partir de Amares por caminhomunicipal até ao alto do
+   monte onde se encontra a Capela da Srª da Paz.</ACESSO>
+  <QUADRO>Outeiro na encosta sudoeste do Monte de Santiago, com boas condiçõesnaturais de defesa e
+   visibilidade sobre o vale do Cávado. Apresenta umaplataforma superior no sentido
+   Nordeste/Sudoeste com afloramentos aNordeste. Vertentes abruptas a Noroeste, Oeste e Sul. </QUADRO>
+  <TRAARQ>Foram realizadas escavações, dirigidas por Ana M. S. Bettencourt, em 1993 e1994. </TRAARQ>
+  <DESARQ>O monte da Santinha foi visitado, em 1943, por Arlindo da Cunha que detectourestos do que
+   interpretou como muralha ciclópica. Esta estrutura adossavaaos vários afloramentos graníticos,
+   ligando-os entre si. Diz, por essaaltura, "Os fragmentos de cerâmica antiga (...) não eram tantos
+   em númeronem tão característicos que logo permitissem uma segura classificação." Maistarde
+   identifica cerâmicas que classifica como "castrejas" e romanas. Nasprospecções e escavações
+   realizadas, pela signatária, na plataforma superiore no início da encosta Sul foram encontrados
+   artefactos atribuíveis a trêsgrandes momentos cronológicos a saber: Calcolítico, Idade do Bronze
+   e Idadedo Ferro. Do período mais antigo apenas se registou espóliodescontextualizado. Da Idade do
+   Bronze, detectaram-se dois momentos deocupação, inseríveis, pela cultura material e pelo
+   radiocarbono, no 1ºquartel do I milénio A.C. Os raros fragmentos integráveis na Idade do
+   Ferro,também descontextualizados, não permitem supor ocupação efectiva, pelo menosneste sector do
+   povoado. Nas restantes zonas do monte, o forte índicearbóreo e arbustivo e as enormes pedreiras
+   impossibilitaram qualquerprospecção. </DESARQ>
+  <INTERP>Povoado pré e proto-histórico. </INTERP>
+  <DEPOSI> Museu D. Diogo de Sousa </DEPOSI>
+  <BIBLIO>MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização da Bacia doCurso do Médio
+   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga. </BIBLIO>
+  <BIBLIO> BETTENCOURT, A. M. S.(1995c) O povoado da Santinha (Amares-Braga),A Idade do Bronze em
+   Portugal. Discursos de Poder, Ed. S. E. C., pp. 60-61</BIBLIO>
+  <AUTOR>Ana M. S. Bettencourt </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

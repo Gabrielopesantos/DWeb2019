@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> S. Miguel-o-Anjo </IDENTI>
-  <DESCRI> Aras; <LIGA TERMO="miliário"> Miliário</LIGA>
-  </DESCRI>
-  <CRONO> Romanização </CRONO>
-  <LUGAR> S. Miguel-o-Anjo </LUGAR>
-  <FREGUE> Prozelo </FREGUE>
-  <CONCEL> Amares </CONCEL>
-  <CODADM> 030117 </CODADM>
-  <LATITU> 517,1 </LATITU>
-  <LONGIT> 180,4 </LONGIT>
-  <ALTITU> 85m </ALTITU>
-  <QUADRO>Procedentes do lugar de S. Miguel-o-Anjo, junto à capela do Anjo da Guarda,são conhecidas
-   duas <LIGA TERMO="ara"> aras</LIGA> . No largo da capelaexiste ainda um <LIGA TERMO="miliário">
-    miliário</LIGA> , que serve decruzeiro e que se encontra deslocado. </QUADRO>
-  <DESARQ>Ara 1: ara em granito anepígrafa. Encontra-se actualmente recolhida nacapela. Quer a parte
-   superior, quer a inferior são molduradas: a superior,por uma série de cinco <LIGA TERMO="friso">
-    frisos</LIGA> ; a inferior possuiapenas dois. Em cima observam-se vestígios do foculus.
-   Dimensões:60x26x20(31); campo epigráfico: 25x26.Ara 2: ara em granito, com inscrição. Encontra-se
-   no Museu dos Biscainhos,em Braga. A peça está bastante degradada. O seu lado direito foi
-   alteradoprovavelmente por uma reutilização. Na parte superior são visíveis restos dofoculus. Em
-   baixo, existem vestígios de um soco, sob duas molduras que orlama parte inferior da peça.
-   Dimensões: 81,5x27x26; campo epigráfico: 41x23,5;letras: 5,5..../ CAND / EBERO / NIO CA / EDVRA /
-   DIOA Candeberónio Cedurádio </DESARQ>
-  <INTERP> O monumento parece dedicado a uma divindade indígena de origemcéltica, sendo
-   provavelmente do século I.</INTERP>
-  <DEPOSI> Ara 2 - Museu dos Biscainhos.</DEPOSI>
-  <BIBLIO> LE ROUX, P. e A. Tranoy (1973). Rome et les indigénes dans le NO dela Pèninsule Ibérique.
-   Problèmes d`epigraphie et d`histoire, Mélanges de laCasa Velázquez, Paris, 9, pp. 249-258. </BIBLIO>
-  <BIBLIO> TRANOY, A. (1981). La Galice Romaine. Recherchesur le Nord-Ouest dela Péninsula Ibérique
-   dans l`Antiquité, Diffusion du Boccard, Paris.</BIBLIO>
-  <BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização daBacia do Curso do Médio
-   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 70. </BIBLIO>
-  <AUTOR> Manuela Martins </AUTOR>
+  <IDENTI> Capela de Nossa Senhora da Conceição ou da Praça </IDENTI>
+  <DESCRI> Capela </DESCRI>
+  <CRONO> Idade Média</CRONO>
+  <LUGAR> Arcos de Valdevez </LUGAR>
+  <FREGUE> Arcos de Valdevez </FREGUE>
+  <CONCEL> Arcos de Valdevez </CONCEL>
+  <LATITU> 541,9 </LATITU>
+  <LONGIT> 176,3 </LONGIT>
+  <ALTITU> 50m </ALTITU>
+  <ACESSO>A vila dos Arcos de Valdevez é um importante nó viário servido por váriasestradas que
+   ligam a Monção, Ponte de Lima e Braga (EN.101 e 202). Omonumento não está sinalizado,
+   encontrando-se na rua da Praça,no centro davila dos Arcos de Valdevez.</ACESSO>
+  <DESARQ>Nos finais do século XV João Domingues, abade de Sabadim, mandou edificar nocentro da vila
+   dos Arcos, para albergar o seu <LIGA TERMO="sarcófago">sarcófago</LIGA> , a capela de Nossa
+   Senhora da Conceição. Conserva-se aindaa singela edificação gótica, com paredes de <LIGA TERMO="silhar">silhar</LIGA> ia granítica regularmente aparelhada, com um pequeno maselegante
+   portal de <LIGA TERMO="arco"> arco</LIGA> ogival com uma <LIGA TERMO="arquivolta">
+    arquivolta</LIGA> decorada com esferas ou pérolas. Afunção funerária da capela manteve-se ao
+   longo de toda a época moderna, aíse fazendo enterrar vários membros da nobreza local, como
+   ilustram asdiversas tampas de sepultura aí existentes. Segundo alguns estudiosos, o <LIGA TERMO="sarcófago"> sarcófago</LIGA> existente no topo da capela, dolado direito de quem entra,
+   será a arca tumular do referido abade JoãoDomingues.</DESARQ>
+  <INTERE>Trata-se de um monumento de inegável significado histórico local e valorpatrimonial,
+   classificado como Imóvel de Interesse Público (Dec. 43073 de14-7-1960), constituindo um
+   importante testemunho de práticas funeráriasrequintadas e também da produção artística gótica de
+   feição rural.</INTERE>
+  <BIBLIO>ALMEIDA (1987): Carlos Alberto Ferreira de Almeida - Alto Minho, (novosguias de Portugal,
+   5), Editorial Presença, Lisboa, 1987. </BIBLIO>
+  <BIBLIO> BARREIROS, M.A.B.(1926): - Egrejas e Capelas Romanicas da RibeiraLima, Edições Marques
+   Abreu, Porto, 1926. </BIBLIO>
+  <BIBLIO> BARROCA,M.J. (1987) - Necrópoles e Sepulturas Medievais deEntre-Douro-E-Minho (séculos V
+   a XV), Provas de Aptidão Pedagógica eCapacidade Científica, (policopiado), Faculdade de Letras da
+   Universidade doPorto, Porto,1987. </BIBLIO>
+  <AUTOR> Luis Fontes </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

@@ -1,54 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Caldelas </IDENTI>
-  <DESCRI> Termas romanas; Necrópole Romana</DESCRI>
-  <CRONO> Romanização</CRONO>
-  <LUGAR> Caldelas </LUGAR>
-  <FREGUE> Caldelas </FREGUE>
-  <CONCEL> Amares </CONCEL>
-  <CODADM> 030106 </CODADM>
-  <LATITU> 522,2 </LATITU>
-  <LONGIT> 180 </LONGIT>
-  <ALTITU> 150m </ALTITU>
-  <QUADRO>No sítio da actual povoação de Caldelas foram encontrados vários vestígiosromanos
-   dispersos, que parecem indicar a existência de um estabelecimentotermal. O local corresponde a
-   uma zona de terraço, bem irrigada porsub-afluentes do rio Homem.</QUADRO>
-  <TRAARQ>Foram realizadas algumas escavações pontuais. </TRAARQ>
-  <DESARQ>João Martins de Freitas, pároco de Caldelas, identificou, nos princípios doséculo,
-   vestígios de uma <LIGA TERMO="necrópole"> necrópole</LIGA> romana nosítio do Grande Hotel de
-   Caldelas. Sabemos que parte do espólio provenienteda escavação realizada foi oferecido ao Museu
-   Pio XII, em Braga, onde pareceestar parcialmente confundido com os materiais da citânia de S.
-   Julião, emVila Verde, também por ele escavada. As únicas peças existentes naquelemuseu que
-   poderão ser facilmente atribuídas a uma <LIGA TERMO="necrópole">necrópole</LIGA> são três vasos
-   de <LIGA TERMO="cerâmica comum romana">cerâmica comum romana</LIGA> , inteiros, com pastas
-   claras, muito semelhantesa outros exumados nas <LIGA TERMO="necrópole"> necrópoles</LIGA> de
-   BracaraAugusta. Dado como proveniente da citânia de S. Julião, mas seguramenteencontrado numa
-   sepultura de Caldelas (FREITAS 1971, fig.5), é um punhal deferro, com empunhadura em bronze,
-   publicado por Mário Cardoso (1947, 65-70),também pertencente ao Museu Pio XII, de Braga. No mesmo
-   museu existem aindaalguns elementos de arquitectura romana, que se encontram
-   igualmenteinventariados como sendo do monte de S. Julião. Um vez que João de Freitasapenas refere
-   o aparecimento naquela estação, de duas colunas, parece-noslegítimo admitir que os restantes
-   materiais possam ser provenientes do sítiode Caldelas.Durante os trabalhos para a construção das
-   actuais termas foram encontradas,em 1803, duas aras votivas, epigrafadas, dedicadas às Ninfas,
-   que sãopropriedade do Hotel da Bela Vista, em Caldelas.Lápide A. Fragmentada (CIL, II, 5572a =
-   ILER, 621). Dimensões: 58x24x16;letras: 4,5 a 5.CAEN(i) / CIEN(us) / NYM / PHIS / EX VO /
-   TOCaenicieno dedicou às Ninfas, em cumprimento de um voto.Lápide B. Fragmentada (CIL, II, 5572b =
-   EE, VIII, 3-99 = ILER, 617).Dimensões: 39x24x14,5; letras: 3,5 e 5.(...) / D (e)AB(us) / NYM /
-   PHIS / EX VO / TO... Às deusas Ninfas, em cumprimento de um voto.</DESARQ>
-  <INTERP> Provável vicus termal.</INTERP>
-  <DEPOSI> Museu Pio XII. </DEPOSI>
-  <BIBLIO> BELINO , A. (1909). Cidades Mortas, Arqueólogo Português, 14, pp.6. </BIBLIO>
-  <BIBLIO> VASCONCELOS, J. L. (1913). As Religiões da Lusitânia, III, Lisboa,pp. 258. </BIBLIO>
-  <BIBLIO> SILVA, D. M. (1958-59). Entre Homem e Cávado, Amares. Monografia doconcelho de Amares e
-   Terras de Bouro, Amares.pp. 229-230; </BIBLIO>
-  <BIBLIO> BRANDÃO, D. P. (1962). As inscrições luso-romanas dos apontamentosde Frei Bento de Santa
-   Gertrudes, Lucerna, 2 (1-2), Porto, pp. 34-39;</BIBLIO>
-  <BIBLIO> TRANOY, A. (1981a). La Galice romaine. Recherches sur le Nord-Ouestde la Péninsule
-   Ibérique dans l` Antiquité, Diffusion du Boccard, Paris. pp.325. </BIBLIO>
-  <BIBLIO> FREITAS, J. (1971). Citânia de S. Julião de Caldelas, ArqueólogoPortuguês, 3ª Série, pp.
-   133-138. </BIBLIO>
-  <BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização daBacia do Curso do Médio
-   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 66. </BIBLIO>
-  <AUTOR> Manuela Martins</AUTOR>
+  <IDENTI> Monte de Santa Marinha </IDENTI>
+  <DESCRI> Monumento megalítico</DESCRI>
+  <CRONO>Pré-História Recente</CRONO>
+  <LUGAR> Santa Marinha </LUGAR>
+  <FREGUE> Travassós </FREGUE>
+  <CONCEL> Fafe </CONCEL>
+  <CODADM> 030733 </CODADM>
+  <LATITU> 503,3 </LATITU>
+  <LONGIT> 193,2 </LONGIT>
+  <ALTITU> 580m </ALTITU>
+  <ACESSO>Entre Castanheira e Santa Marinha, a seguir ao lugar dos Poços Salgueiros,1Km a leste, por
+   caminho carreteiro que atravessa o planalto. </ACESSO>
+  <QUADRO>Extensa chã planáltica do Monte de Santa Marinha, integrada na baciahidrográfica do rio
+   Ave.</QUADRO>
+  <DESARQ>
+   <LIGA TERMO="mamoa"> Mamoa</LIGA> de grandes dimensões, com cerca de 20 a25m de diâmetro,
+   certamente pertencente à mesma <LIGA TERMO="necrópole">necrópole</LIGA> a que pertenciam os
+   monumentos de Poços Salgueiros.</DESARQ>
+  <INTERP> Necrópole megalítica.</INTERP>
+  <AUTOR> Manuela Martins </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

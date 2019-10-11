@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Cruzeiro do Pilar</IDENTI>
+  <IDENTI> Castro de Álvora </IDENTI>
   <DESCRI>
-   <LIGA TERMO="miliário"> Miliário</LIGA>
+   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
   </DESCRI>
-  <CRONO> Romanização</CRONO>
-  <LUGAR> Lugar de Pilar </LUGAR>
-  <FREGUE> Fiscal </FREGUE>
-  <CONCEL> Amares </CONCEL>
-  <CODADM> 030111 </CODADM>
-  <LATITU> 520,6 </LATITU>
-  <LONGIT> 178,5 </LONGIT>
-  <ALTITU> 100m </ALTITU>
-  <ACESSO> O <LIGA TERMO="miliário"> miliário</LIGA> está no lugar de Pilar,entre S. Miguel de
-   Fiscal e S. Martinho de Carrazedo, servindo como base deum cruzeiro.</ACESSO>
-  <DESARQ>
-   <LIGA TERMO="miliário"> Miliário</LIGA> epigrafado, encimado poruma cruz. Altura: 166; diâmetro:
-   29; letras: 8.[IMP]P(eratori). CAE[S(ari).M(arco)] / AVR(elio). CA[RO] / P(io) F(elici)I(nvicto)
-   [AVG(usto)] / P(ontifici) M(aximo)...Ao Imperador César Marco Aurélio Caro, Pio, Feliz, Invicto,
-   Augusto,Pontífex Máximo...</DESARQ>
-  <INTERP>
-   <LIGA TERMO="miliário"> Miliário</LIGA> pertencente à Via Nova(Geira), datado de 282-283.
-   Encontra-se deslocado. </INTERP>
-  <BIBLIO> BRANDÃO, D. P.(1962). As inscriçõs luso-romanas dos apontamentos deFrei Bento de Santa
-   Gertrudes, Lucerna, 2 (1-2), Porto, pp. 25-29. </BIBLIO>
-  <BIBLIO> SOUSA, J. J. R.(1971-72). Nova ara dedicada aos Lares no conventusBracaraugustano,
-   Bracara Augusta, 25-26, 59-62 (71-74), pp.180. </BIBLIO>
-  <BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Histórico e Romanização daBacia do Curso do Médio
-   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 67-68. </BIBLIO>
+  <CRONO>Proto-história / Romanização</CRONO>
+  <LUGAR> Álvora </LUGAR>
+  <FREGUE> Álvora </FREGUE>
+  <CONCEL> Arcos de Valdevez </CONCEL>
+  <CODADM> 160103 </CODADM>
+  <LATITU> 552,2m </LATITU>
+  <LONGIT>173,7m </LONGIT>
+  <ALTITU> 269m</ALTITU>
+  <QUADRO>O povoado localiza-se num monte sobranceiro à ribeira de Frades, afluente damargem direita
+   da bacia do rio Vez.</QUADRO>
+  <DESARQ>Trata-se de um povoado proto-histórico com várias linhas de muralhas.A partir dos
+   materiais cerâmicos encontrados no povoado é possível afirmarque foi ocupado durante a Idade do
+   Ferro tendo sido romanizado. É igualmenteprovável uma ocupação anterior à Idade do Ferro,
+   referenciada peladescoberta de um molde de foice, de granito, encontrado no enchimento damuralha
+   e datável entre os sécs. IX e VIII a.C. </DESARQ>
+  <DEPOSI>Museu D. Diogo de Sousa; Museu Nacional de Arqueologia e Etnologia.</DEPOSI>
+  <BIBLIO>BETTENCOURT, A.M.S. (1988). O molde de foice do Castro de Álvora - Arcos deValdevez,
+   Cadernos de Arqueologia, Série II, 5, Braga, pp. 155-161.</BIBLIO>
+  <BIBLIO> GOMES, C.A. (1979). O Castro de Álvora (Subsídios para o seuestudo), Cadernos Vianenses,
+   3, Viana do Castelo, pp. 161-175. </BIBLIO>
+  <BIBLIO> GOMES, C.A. (1980). O Castro de Álvora - II (Subsídios para o seuestudo), Terra de Val de
+   Vez, 1, Arcos de Valdevez, pp. 84-162. </BIBLIO>
+  <BIBLIO> GOMES, C.A. (1981) O Castro de Álvora - III (Subsídios para o seuestudo), Terra de Val de
+   Vez, 2, Arcos de Valdevez, pp. 47-51. </BIBLIO>
   <AUTOR> Manuela Martins </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

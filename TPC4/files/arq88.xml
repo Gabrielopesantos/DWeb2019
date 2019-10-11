@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Portelagem; Casa da Moura </IDENTI>
-  <DESCRI> Monumento megalítico </DESCRI>
-  <CRONO> Pré-História Recente</CRONO>
-  <LUGAR/>
-  <FREGUE> Vila Chã </FREGUE>
-  <CONCEL> Esposende </CONCEL>
-  <CODADM> 030615 </CODADM>
-  <LATITU> 511,3 </LATITU>
-  <LONGIT> 147,4 </LONGIT>
-  <ALTITU> 161m </ALTITU>
-  <ACESSO>Por caminho carreteiro a partir do lugar do Sobreiro. </ACESSO>
-  <QUADRO> Planalto a Sudeste do Rápido. </QUADRO>
-  <DESARQ>Neste monumento megalítico, de câmara rectangular alongada, com 4,10m decomprimento por
-   1,50m de largura e 2m de altura, revestida por couraçalítica, Martins Sarmento exumou três pontas
-   de seta e um púcaro, de fabricomanual, pasta arenosa, grosseira, de cor acastanhada. A pança
-   apresentacarena na parte média do corpo do vaso, sobre o qual existe uma fiada demamilos. Também
-   sobre o bordo se registam decorações mamilares. A base é defundo plano e a asa de secção
-   sub-rectangular, de inserção vertical. Ascaracterísticas deste vaso, inserem-no entre os finais
-   do IIIº e os meadosdo IIº milénio A.C. </DESARQ>
-  <INTERP>Monumento Megalítico. </INTERP>
-  <DEPOSI> Museu Martins Sarmento. </DEPOSI>
-  <BIBLIO>VASCONCELOS, J. L. (1901) Extractos da correspondência de F. MartinsSarmento (1881-1883),
-   Arqueólogo Português, 6, Lisboa, pp.34-35. </BIBLIO>
-  <BIBLIO> FORTES, J (1905) Thesouro de Viatodos - da Idade do Bronze,Portugália, 2 (1), Porto, pp.
-   110-111. </BIBLIO>
-  <BIBLIO> SARMENTO, F.(1933) Dispersos, Ed. Universidade de Coimbra, Coimbra,pp. 156. </BIBLIO>
-  <BIBLIO> LEISNER, V. .(1958) Nota sobre um vaso transmontano, Arqueologia eHistória, 8, Lisboa,
-   pp.150. </BIBLIO>
-  <BIBLIO> SANCHES, M. J. (1981) Recipientes cerâmicos da Pré-História recentedo Norte de Portugal,
-   Arqueologia, 3, Porto, pp.88-98. </BIBLIO>
-  <BIBLIO> ALMEIDA, C. A. B. (1985) Carta Arqueológica do concelho deEsposende, Boletim Cultural de
-   Esposende, 7/8, Esposende, pp. 39-40.</BIBLIO>
-  <AUTOR> Ana M. S. Bettencourt </AUTOR>
+  <IDENTI> Lamas de Mouro </IDENTI>
+  <DESCRI> Ponte </DESCRI>
+  <CRONO> Idade Média</CRONO>
+  <LUGAR> Lamas de Mouro </LUGAR>
+  <FREGUE> Lamas de Mouro </FREGUE>
+  <CONCEL> Melgaço </CONCEL>
+  <CODADM> 160309 </CODADM>
+  <LATITU> 563,2 </LATITU>
+  <LONGIT> 194,7 </LONGIT>
+  <ALTITU> 872m </ALTITU>
+  <ACESSO>O acesso à ponte faz-se por estrada municipal a partir da estrada EN.202,que liga Melgaço
+   a Castro Laboreiro. A ponte fica à margem desta estrada,lado Sul, cerca de 2 km antes da povoação
+   de Lamas de Mouro. O monumento nãoestá sinalizado.</ACESSO>
+  <DESARQ>Tardo-medieval, a ponte, que se levanta na chã de Lamas sobre o troçoinicial do rio de
+   Mouro, dando passagem à antiga via carreteira que de Lamasde Mouro levava à ribeira-Minho por
+   Parada Monte e Gave. É de um só <LIGA TERMO="arco"> arco</LIGA> de volta perfeita, bem alicerçado
+   nas margensgraníticas através de paramentos de <LIGA TERMO="aparelho"> aparelho</LIGA> rude em
+   mamposteria de calhaus e blocos graníticos mal afeiçoados. O <LIGA TERMO="arco"> arco</LIGA>
+   apresenta um <LIGA TERMO="aparelho">aparelho</LIGA> cuidado com <LIGA TERMO="aduela">
+    aduelas</LIGA> demodulação regular, algumas das quais ostentam no intradorso siglas de <LIGA TERMO="canteiro"> canteiro</LIGA> . O piso do tabuleiro, com menos de 3metros de largura,
+   assenta ao centro da ponte no extradorso das <LIGA TERMO="aduela"> aduelas</LIGA> do arco,
+   acentuando a sua elevação emcavalete, reforçada ainda por só conservar guardas pétreas nesse
+   tramo.Vencendo um <LIGA TERMO="triedro"> triedro</LIGA> com cerca de 4 metros decomprimento e
+   mais de 2,5 metros de altura, esta ponte apresentacaracterísticas construtivas e uma estética que
+   se enquadram bem nos modelosmedievais.</DESARQ>
+  <INTERP>Ponte de fundação medieval da segunda metade do séc. XIII ? </INTERP>
+  <INTERE>Embora bem conservada e apesar de interessarem ao estudo da difusão daviação medieval, os
+   elemento descrito não tem, no contexto regional, grandevalor patrimonial nem revestem particular
+   significado histórico. Contudo,porque Lamas de Mouro é uma zona de referência turística (porta de
+   entradano Parque Nacional da Peneda-Gerês, com centro de interpretação e parque decampismo),
+   oferecendo simultaneamente um agradável enquadramentopaisagístico, particularmente sugestivo na
+   ponte, este monumento adquireinteresse e justifica a sua visita.</INTERE>
+  <BIBLIO>ALMEIDA, C.A.F.(1978a) Arquitectura Românica de Entre Douro e Minho, Tese deDoutoramento
+   (policopiada), Faculdade de Letras da Universidade do Porto,Porto, 1978. </BIBLIO>
+  <AUTOR> Luis Fontes </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

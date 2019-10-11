@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Pedra Sentada </IDENTI>
-  <DESCRI> Monumento megalítico </DESCRI>
-  <CRONO>Pré-História Recente</CRONO>
-  <LUGAR> Malhadouro </LUGAR>
-  <FREGUE> Várzea Cova </FREGUE>
-  <CONCEL> Fafe </CONCEL>
-  <CODADM> 030734 </CODADM>
-  <LATITU> 504 </LATITU>
-  <LONGIT> 203,9 </LONGIT>
-  <ALTITU> 700m </ALTITU>
-  <ACESSO>Faz-se pela E. N. 304 que liga Couforco com a Lagoa. </ACESSO>
-  <QUADRO>Zona acidentada, entre Pedra Sentada e o Marco Geodésico doMalhadouro.</QUADRO>
-  <DESARQ>
-   <LIGA TERMO="mamoa"> Mamoa</LIGA> com sinais da câmara funerária, queapresenta vestígios de dois
-   esteios. </DESARQ>
-  <AUTOR> Manuela Martins </AUTOR>
+  <IDENTI> Vade S. Tomé </IDENTI>
+  <DESCRI> Igreja </DESCRI>
+  <CRONO> Idade Média</CRONO>
+  <LUGAR> Igreja </LUGAR>
+  <FREGUE> Vade S.Tomé </FREGUE>
+  <CONCEL> Ponte da Barca </CONCEL>
+  <CODADM> 160624 </CODADM>
+  <LATITU> 534,85 </LATITU>
+  <LONGIT> 177,2 </LONGIT>
+  <ALTITU> 135m </ALTITU>
+  <ACESSO>No lugar da igreja. O acesso faz-se por curto caminho de terra batida desdeo largo do
+   cruzeiro, servido pela estrada municipal que liga à estradanacional EN.101. O monumento não está
+   sinalizado.</ACESSO>
+  <DESARQ>Nas paredes Norte da <LIGA TERMO="nave"> nave</LIGA> e da capela-mor daigreja paroquial de
+   Vade S. Tomé conservam-se vestígiosarquitectónico-decorativos <LIGA TERMO="românico">
+    românicos</LIGA> ,respectivamente parte da cachorrada com <LIGA TERMO="modilhão">modilhões</LIGA> esculturados e troços do <LIGA TERMO="entablamento">entabelamento</LIGA> da
+    <LIGA TERMO="cornija"> cornija</LIGA> com decoraçãoenxaquetada. É o que resta da edificação
+   medieval, profundamente alteradapor sucessivas remodelações, em relação à qual não se conhece
+   qualquerreferência ou documento coevo que permita conhecer melhor a suahistória.</DESARQ>
+  <INTERE>Trata-se de um monumento sem relevância histórica local e de escasso valorcientífico e
+   patrimonial, interessando apenas à compreensão da difusão do <LIGA TERMO="românico">
+    românico</LIGA> na região.</INTERE>
+  <BIBLIO>ALMEIDA,C.A.F.(1987). Alto Minho, (novos guias de Portugal, 5), EditorialPresença, Lisboa,
+   1987. </BIBLIO>
+  <AUTOR> Luis Fontes </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

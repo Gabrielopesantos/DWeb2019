@@ -1,45 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Lago </IDENTI>
+  <IDENTI> Bouro (Santa Maria) </IDENTI>
   <DESCRI>
    <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
   </DESCRI>
-  <CRONO>Proto-História</CRONO>
-  <LUGAR> Lago </LUGAR>
-  <FREGUE> Lago </FREGUE>
+  <CRONO> Proto-História</CRONO>
+  <LUGAR> Monte do Outeiro </LUGAR>
+  <FREGUE> Bouro (Santa Maria) </FREGUE>
   <CONCEL> Amares </CONCEL>
-  <CODADM> 030113 </CODADM>
-  <LATITU>517,4</LATITU>
-  <LONGIT>177</LONGIT>
-  <ALTITU> 65m </ALTITU>
-  <ACESSO>O acesso a este povoado faz-se a partir do lugar de Lago, por caminho carreteiro, que
-   contorna os lados Oeste e Sul domonte.</ACESSO>
-  <QUADRO>O povoado do Lago assenta num pequeno cabeço de baixa altitude, sobranceiroao rio.Possui
-   boas defesas naturais e destaca-se bem na superfície suavementeondulada da plataforma
-   fluvial.</QUADRO>
-  <TRAARQ>Conhecido da bibliografia arqueológica desde os anos 50 o povoado foiobjecto de trabalhos
-   de escavação entre 1980 e 1982, no âmbito de um projecto de investigação da responsabilidade
-   deManuela Martins. Estes trabalhos permitiram a caracterização do povoado e a sua datação. </TRAARQ>
-  <DESARQ>O povoado possui uma única plataforma poligonal irregular, circundada, pelomenos no lado
-   Oeste, por uma muralha de pedra, à qual se associa um fosso, escavado na base da
-   vertente.</DESARQ>
-  <INTERP> Os trabalhos de escavação aí realizados permitiram determinar umaocupação situada entre o
-   século III a.C. emeados do século I da nossa era. Não foram encontrados indícios seguros de <LIGA TERMO="romanização"> romanização</LIGA> . Também não se encontraram habitações pétreas. Todavia,
-   identificaram-sevárias fossas que permitem atribuir ao povoado uma função económica importante
-   relacionada com a exploração do vale.Trata-se com alguma probabilidade de um povoadoagrícola, que
-   desempenharia um papel importante na rede hierárquica dopovoamento indígena, característica dos
-   últimosséculos antes da nossa era. As escavações forneceram abundante espólio.Povoado fortificado
-   proto-históroco.</INTERP>
-  <DEPOSI> Museu D. Diogo de Sousa. </DEPOSI>
-  <INTERE>Apesar de não serem visíveis estruturas, a visita ao povoado permitecompreender a original
-   implantação dos povoados de baixa altitude, que constituem uma especifidade do
-   povoamentoproto-histórico da região. </INTERE>
-  <BIBLIO>SILVA D. M. (1958-59). Entre Homem e Cávado, Amares, Monografia do concelhode Amares e
-   Terras de Bouro, Amares.pp. 139; </BIBLIO>
-  <BIBLIO>MARTINS, M. (1986b). O povoado proto-histórico do Lago (Amares). Sistemas dedefesa e fases
-   de ocupação, Arqueólogo Português, série IV, 4, pp. 149-184. </BIBLIO>
-  <BIBLIO>MARTINS, M. (1988). O povoado fortificado de Lago, Amares, Cadernos deArqueologia -
-   Monografias, 1, Universidade do Minho, Braga. </BIBLIO>
-  <AUTOR>Manuela Martins</AUTOR>
-  <DATA>04-FEV-1998</DATA>
+  <CODADM> 030120 </CODADM>
+  <LATITU> 521,3 </LATITU>
+  <LONGIT> 186,9 </LONGIT>
+  <ALTITU> 175m </ALTITU>
+  <ACESSO>O acesso ao local pode fazer-se por caminho carreteiro, a partir da estradanacional
+   Amares-Gerês, em direcção ao lugar de Outeiro.</ACESSO>
+  <QUADRO>O monte do Outeiro corresponde a um pequeno cabeço, situado perto do rioCávado, numa zona
+   razoavelmente plana de um terraço fluvial.</QUADRO>
+  <DESARQ>O povoado possui uma única plataforma, no topo do cabeço, que se encontracircundada por um
+   talude. Este parece corresponder a uma estrutura defensiva. Na superfície do solorecolhem-se
+   fragmentos de tijoleira e são visíveis pedras, correspondentes a derrubes de estruturas. No
+   entanto, nãose registam quaisquer alinhamentos coerentes. Trata-se, aparentemente, de um povoado
+   de baixa altitude, provavelmenteromanizado, semelhante ao povoado do Lago, em Amares. </DESARQ>
+  <INTERP>
+   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA> proto-histórico. </INTERP>
+  <BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Histórico e a romanização da Bacia doMédio Cávado,
+   Cadernos de Arqueologia - Monografias, 5, Universidade doMinho, Braga, pp. 70-71. </BIBLIO>
+  <AUTOR>Manuela Martins </AUTOR>
+  <TRAARQ>Não são conhecidos trabalhos arqueológicos no local. </TRAARQ>
+  <DATA>04-Fev-1998</DATA>
  </ARQELEM>

@@ -1,24 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Monte de Santa Marinha </IDENTI>
-  <DESCRI> Monumento megalítico</DESCRI>
-  <CRONO>Pré-História Recente</CRONO>
-  <LUGAR> Santa Marinha </LUGAR>
-  <FREGUE> Travassós </FREGUE>
-  <CONCEL> Fafe </CONCEL>
-  <CODADM> 030733 </CODADM>
-  <LATITU> 503,3 </LATITU>
-  <LONGIT> 193,2 </LONGIT>
-  <ALTITU> 580m </ALTITU>
-  <ACESSO>Entre Castanheira e Santa Marinha, a seguir ao lugar dos Poços Salgueiros,1Km a leste, por
-   caminho carreteiro que atravessa o planalto. </ACESSO>
-  <QUADRO>Extensa chã planáltica do Monte de Santa Marinha, integrada na baciahidrográfica do rio
-   Ave.</QUADRO>
-  <DESARQ>
-   <LIGA TERMO="mamoa"> Mamoa</LIGA> de grandes dimensões, com cerca de 20 a25m de diâmetro,
-   certamente pertencente à mesma <LIGA TERMO="necrópole">necrópole</LIGA> a que pertenciam os
-   monumentos de Poços Salgueiros.</DESARQ>
-  <INTERP> Necrópole megalítica.</INTERP>
-  <AUTOR> Manuela Martins </AUTOR>
+  <IDENTI> Lindoso </IDENTI>
+  <DESCRI> Igreja </DESCRI>
+  <CRONO> Idade Média</CRONO>
+  <LUGAR> Lindoso </LUGAR>
+  <FREGUE> Lindoso </FREGUE>
+  <CONCEL> Ponte da Barca </CONCEL>
+  <CODADM> 160612 </CODADM>
+  <LATITU> 544,3 </LATITU>
+  <LONGIT> 194,3 </LONGIT>
+  <ALTITU> 452m </ALTITU>
+  <ACESSO>O acesso faz-se pelo caminho municipal que liga a aldeia à estrada nacionalEN.304-1
+   (ligação Ponte da Barca à fronteira da Madalena - troço do futuroIC.28). O monumento não está
+   sinalizado.</ACESSO>
+  <DESARQ>Durante as obras de restauro da igreja paroquial realizadas na década de 50foram
+   encontradas, no subsolo da zona do adro contígua à parede setentrionalda <LIGA TERMO="nave">
+    nave</LIGA> , várias peças líticas correspondentes atumulações. Pela sua feição arcaica,
+   mereceram a atenção do P.e JoséMagalhães, então pároco em Lindoso, que as fez recolher no pátio
+   interior dacasa paroquial (hoje abandonada e semi arruinada). Trata-se de 6 peças emgranito,
+   correspondentes a duas caixas e quatro tampas de <LIGA TERMO="sarcófago"> sarcófagos</LIGA> . As
+   duas arcas tumulares são escavadasem blocos monolíticos de granito local, toscamente talhados,
+   com cantosarredondados. A cavidade de um desenha uma forma antropomórfica e a de outrouma forma
+   em "banheira". Não é perceptível qualquer decoração apresentandoainda, abertos na base, um
+   orifício para verter os líquidos da decomposiçãodo corpo. As tampas, incompletas, são talhadas em
+   lajes monolíticas degranito - uma de maior qualidade, bem afeiçoada, apresenta decoração
+   "emestola" desenhada por uma linha dupla central relevada, com bifurcaçãocurvilínea na <LIGA TERMO="cabeceira"> cabeceira</LIGA> ; outra, em granitode pior qualidade e mais toscamente
+   trabalhada, apresenta, no sentido docomprimento, uma dupla nervura em relevo, que define a linha
+   de junção dosdois planos em que a face se organiza (volume em "duas águas"). Nessas duasbandas
+   observa-se uma decoração gravada, composta por alguns sulcos poucoprofundos, obtidos por
+   picotagem, desenhando pequenas formas geométricas dotipo "siglas"; uma terceira talhada em laje
+   monolítica de granito local,razoavelmente afeiçoada, da qual se conserva o terço do lado da <LIGA TERMO="cabeceira"> cabeceira</LIGA> , apresentando um volume em "duas águas"com os dois planos a
+   juntar-se ao centro numa linha relevada. No extremo da <LIGA TERMO="cabeceira"> cabeceira</LIGA>
+   apresenta uma decoração embaixo-relevo formada por duas volutas cujos ramos principais divergem
+   dalinha central relevada. Do enrolamento da voluta maior saiem outras pequenasvolutas menos
+   enroladas (tipo gavinhas). No plano lateral esquerdo da faceexposta conserva-se o que aparenta
+   ser parte de uma epígrafe, muito erodidae por isso de difícil interpretação, onde parece ler-se
+   PET T. Não éperceptível outra decoração; existe ainda um quarto fragmento de tampatalhada em
+   granito local, bem afeiçoada. Corresponde a mais de metade dolado direito da tampa, abarcando
+   parte da <LIGA TERMO="cabeceira">cabeceira</LIGA> . Foi cortada pelo eixo longitudinal da peça e
+   reutilizadacomo guarnição de porta, como evidenciam os rasgo e cova de apoio do eixo(com
+   polimento de uso). Apresenta um volume em "duas águas", observando-seno plano lateral direito uma
+   decoração mista, gravada e em baixo-relevo,respectivamente uma suástica curvilínea inscrita num
+   círculo e um <LIGA TERMO="friso"> friso</LIGA> lateral de pequenas volutas limitadas por
+   umrebordo perimetral que parece marcar a <LIGA TERMO="cabeceira">cabeceira</LIGA> . Os
+   testemunhos materiais descritos reportam-se a umamodalidade específica de tumulação, o
+   enterramento em <LIGA TERMO="sarcófago"> sarcófago</LIGA> , modalidade bem documentada no
+   NOpeninsular durante os séculos centrais da Idade Média. Considerando ocontexto
+   arqueológico-documental local, propomos para o conjunto destaspeças uma cronologia compreendida
+   entre os séculos XI-XIV. Embora se possaperceber uma certa influência galega, patente sobretudo
+   na tampa "em estola"(a única peça que parece de "importação"), as
+   característicastécnico-estilísticas das restantes peças, em que sobressai a
+   simplicidadedecorativa e a incipiência dos desenhos, sugerem uma produçãolocal.</DESARQ>
+  <INTERE>Este conjunto escultórico tumular tem grande valor e significadoarqueológicos,
+   constituindo um importante contributo para a compreensão dasmodalidades de enterramento medieval
+   na região. Deve por isso ser objecto deprotecção. Contudo, tal como outros elementos escultóricos
+   em granitoexpostos ao ar livre (actualmente encontram-se expostas no adro, alinhadasjunto à
+   parede Norte da <LIGA TERMO="nave"> nave</LIGA> ), estas peças estãosujeitas a acentuada erosão
+   das superfícies devido à sua fraca resistênciaàs condições ambientais (chuva, frio, musgos e
+   líquenes).</INTERE>
+  <BIBLIO>BARROCA, M.J.(1987). Necrópoles e Sepulturas Medievais deEntre-Douro-E-Minho (séculos v a
+   XV), Provas de Aptidão Pedagógica eCapacidade Científica, (policopiado), Faculdade de Letras da
+   Universidade doPorto, Porto,1987, (para as peças 3 e 5 ). </BIBLIO>
+  <BIBLIO>FONTES, F.(1996). O Território de Lindoso. Paisagem e Arqueologia (tese demestrado, em
+   conclusão), Universidade do Minho, Braga, 1996. </BIBLIO>
+  <AUTOR> Luis Fontes </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

@@ -1,31 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Lugar de Coto; Póvoa; Lugar do Reduto </IDENTI>
-  <DESCRI>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
-  </DESCRI>
-  <CRONO> Proto-História </CRONO>
-  <LUGAR> Lugar de Coto </LUGAR>
-  <FREGUE> Dossãos </FREGUE>
+  <IDENTI>A Mamoa nº10 do Chão da Cheira; Maciço do Borrelho </IDENTI>
+  <DESCRI> Monumento megalítico </DESCRI>
+  <CRONO>Pré-História Recente</CRONO>
+  <LUGAR/>
+  <FREGUE> Gondiães </FREGUE>
   <CONCEL> Vila Verde </CONCEL>
-  <CODADM> 031313 </CODADM>
-  <LATITU> 523,2 </LATITU>
-  <LONGIT> 172,2 </LONGIT>
-  <ALTITU> 250m </ALTITU>
-  <ACESSO>O acesso faz-se por caminho de pé posto a partir de Dossãos.</ACESSO>
-  <QUADRO>O <LIGA TERMO="castro"> castro</LIGA> ocupa um pequeno outeiro situado navertente este do
-   monte de Moinho Velho, que constitui um prolongamento paraSE do monte do Borrelho, importante
-   acidente geográfico do concelho de VilaVerde. O outeiro encontra-se virado a um pequeno vale,
-   onde se localiza asede de freguesia.</QUADRO>
-  <TRAARQ>Não são conhecidos trabalhos arqueológicos no local.</TRAARQ>
-  <DESARQ>O povoado é relativamente pequeno e possui apenas duas plataformas, em cujoslimites é
-   possível notar restos de fortificações. Na superfície do cabeçorecolhem-se fragmentos de
-   cerâmica, sobretudo de <LIGA TERMO="tégula">tégulas</LIGA> .</DESARQ>
-  <INTERP>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA> romanizado. </INTERP>
-  <BIBLIO> VIEIRA, J. A. (1886). O Minho pitoresco, Lisboa, 2 vols. pp. 404.</BIBLIO>
-  <BIBLIO>MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização da Bacia doCurso do Médio
-   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 97-98. </BIBLIO>
-  <AUTOR> Manuela Martins </AUTOR>
+  <CODADM> 031321 </CODADM>
+  <LATITU> 525,5 </LATITU>
+  <LONGIT> 173,2 </LONGIT>
+  <ALTITU> 471m </ALTITU>
+  <QUADRO>A necróploe megalítica, que integra o monumento, ocupa os planaltossuperiores de um
+   maciço, de cerca de 6.5Km de extensão, no sentido NE-SW. Apaisagem actual é essencialmente
+   aberta, predominando uma vegetaçãoarbustiva e herbácea, com resquícios arbóreos. Os planaltos são
+   percorridospor rebanhos de gado bovino, caprino e equino. </QUADRO>
+  <TRAARQ>Os trabalhos arqueológicos realizados no local por Ana Bettencourt (U. A. U.M.),
+   consistiram na abertura de quatro valas de 1,5m de largura cada,segundo a orientação dos pontos
+   cardeais.A <LIGA TERMO="necrópole"> necrópole</LIGA> , de tradição megalítica domaciço do
+   Borrelho, que conta actualmente com trintra e seis monumentosinventariados e cartografados,
+   integra túmulos isolados na paisagem ouagrupados. A <LIGA TERMO="mamoa"> mamoa</LIGA> 10 da
+   Cheira insere-se numconjunto de quatro monumentos, que não distam entre si mais de 150m e
+   quedenominamos de núcleo 3 do Chão da Cheira.</TRAARQ>
+  <DESARQ>As escavações efectuadas neste imóvel permitiram concluir que a câmara destemonumento se
+   encontrava muito destruída. O único elemento localizadorefere-se à base de um esteio in situ, com
+   0,44m de largura, 0,28m de alturae 0,15m de espessura e situava-se no limite norte do quadrado
+   D4. Umaanálise cuidada deste ortostato, o nº1, demonstrou que o mesmo foi colocadonuma vala
+   aberta na rocha para esse fim, sendo "travado" com pequenaspedras, em forma de cunha. Não se
+   detectou qualquer outro tipo de "cama" deesteio, nesta área, pelo que é impossível determinar a
+   tipologia da câmarafunerária.No entanto, a área de dispersão do espólio sugere que ela deveria
+   serpequena e talvez composta por quatro ou cinco esteios, interpretaçãosustentada pelo número de
+   ortostatos e fragmentos dos mesmos, encontradosdurante a escavação, de forma dispersa e a
+   diferentes cotas. As dimensõesdos fragmentos de esteios números 2 e 3, com cerca de 0,60m de
+   altura máximae a altura média da couraça lítica superficial, com cerca de 0,70m, parecemindicar
+   uma câmara funerária de dimensões reduzidas.O espólio exumado, nomeadamente <LIGA TERMO="micrólito"> micrólitos</LIGA> , <LIGA TERMO="lâmina"> lâminas</LIGA> e <LIGA TERMO="lamela"> lamelas</LIGA> ,enxós e cerâmica que assinala decoração com caneluras, permite
+   situá-loentre o V e o IV milénio a. C., por comparação com o de outros monumentossimilares no
+   Norte de Portugal.Se as comparações ao nível do espólio apontam para uma cronologia antiga, jáas
+   características arquitectónicas da <LIGA TERMO="mamoa"> mamoa</LIGA> nº10, assim como a ausência
+   de contraforte, as dimensões reduzidas emdiâmetro e em altura da mamoa, a pequenez da câmara,
+   aparentemente semcorredor e a exígua monumentalidade, aproximam-no de monumentos comcronologia
+   mais tardia, entre os quais se inclui a mamoa 4 de Outeiro deGregos.No entanto, o monumento
+   poderá inscrever-se numa fase antiga do fenómenomegalítico no Norte de Portugal, isto é, entre os
+   finais do Vº e os meadosdo IVº milénio a.C., datação concordante com o resultado da análise de
+   umaamostra de madeira procedente das terras do tumulus datada de 4750+/-50BP.</DESARQ>
+  <INTERP>Sepultura com tumulus da necrópole do Maciço do Borrelho, datável entrefinais do Vº e
+   meados do IVº milénio a. C.. </INTERP>
+  <DEPOSI>Museu D. Diogo de Sousa.</DEPOSI>
+  <BIBLIO>CRUZ, D. J. (1992) A mamoa 1 de Chã de Carvalhal (Serra da Aboboreira), Ed.Conimbriga/
+   Anexos 1, Coimbra. </BIBLIO>
+  <BIBLIO> BETTENCOURT, A. M. S. (1991/92). A mamoa nº 10 do Chão da Cheira,Maciço do Borrelho -
+   Vila Verde, Cadernos de Arqueologia, nº 8/9,Universidade do Minho, Braga, pp.43-66 . </BIBLIO>
+  <AUTOR> Ana M.S. Bettencourt </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

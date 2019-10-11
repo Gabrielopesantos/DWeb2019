@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Santa Iria </IDENTI>
-  <DESCRI>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
-  </DESCRI>
-  <CRONO> Proto-História </CRONO>
-  <LUGAR> Monte de Santa Iria</LUGAR>
-  <FREGUE> Verim </FREGUE>
-  <CONCEL> Póvoa de Lanhoso </CONCEL>
-  <CODADM> 030928 </CODADM>
-  <LATITU> 516 </LATITU>
-  <LONGIT> 184,8 </LONGIT>
-  <ALTITU> 110m </ALTITU>
-  <QUADRO>O Monte de Santa Iria é uma pequena elevação que se desenvolve num compridoe estreito
-   esporão, paralelo ao rio Cávado. O monte localiza-se a cerca de1Km a Norte da igreja de
-   Verim.</QUADRO>
-  <TRAARQ>Não são conhecidos trabalhos arqueológicos no local.</TRAARQ>
-  <DESARQ>Apesar da baixa altitude do cabeço, as suas vertentes são abruptas, pelo queo povoado
-   possui boas defesas naturais. Na parte mais alta do monte,circundando um tabuleiro razoavelmente
-   plano, existem vestígios de um taludedefensivo. Aparentemente o povoado possuiria apenas uma
-   plataforma,enquadrando-se, deste modo, no conjunto de povoados de baixa altitude. Nasupefície do
-   cabeço recolhem-se fragmentos de <LIGA TERMO="cerâmica indígena"> cerâmica indígena</LIGA> de
-   fabrico <LIGA TERMO="micáceo">micáceo</LIGA> . O sítio encontra-se bastante destruído. </DESARQ>
-  <INTERP>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA> proto-histórico. </INTERP>
-  <BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Histórico e a Romanização daBacia do Curso Médio do
-   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 93. </BIBLIO>
-  <AUTOR> Manuela Martins </AUTOR>
+  <IDENTI> S. Bento de Balugães </IDENTI>
+  <DESCRI> Sepultura </DESCRI>
+  <CRONO> Pré-História Recente</CRONO>
+  <LUGAR> S. Bento </LUGAR>
+  <FREGUE> Balugães </FREGUE>
+  <CONCEL> Barcelos </CONCEL>
+  <CODADM> 030212 </CODADM>
+  <LATITU> 519,1 </LATITU>
+  <LONGIT> 158,2 </LONGIT>
+  <ALTITU> 70m </ALTITU>
+  <QUADRO>Planície, a Sul da antiga estrada real entre Braga e Viana doCastelo.</QUADRO>
+  <DESARQ>Numa <LIGA TERMO="cista"> cista</LIGA> de enterramento individial, descobertacasualmente,
+   exumaram-se quatro pontas de tipo "Palmela", uma das quaisdesapareceu e uma gargantilha de tiras,
+   efectuada, por martelagem sobre ourolaminado. É rematada por apêndices arredondados. A propósito
+   deste achadodiz S. da Veiga (1891:46):"sabe-se que era excavada no sólo; não se diz setinha
+   revestimento de lages toscas (...) ha, porém, lembraça de que estavapela linha norte-sul. (...)
+   Nùm angulo do topo norte estavam quatro frechasde cobre acompanhadas de um diadema de ouro, e
+   diz-se que nada continha". Osparalelos para esta jóia existentes no Noroeste peninsular, na
+   Estremaduraportuguesa e na costa atlântica francesa, permitem inseri-la,hipoteticamente, na 2ª
+   metade do IIIº milénio A.C. </DESARQ>
+  <INTERP>Sepultura da Idade do Bronze </INTERP>
+  <DEPOSI>Museu Nacional de Arqueologia, tendo desaparecido a gargantilha.</DEPOSI>
+  <BIBLIO>VEIGA, S. (1891) Antiguidades monumentaes do Algarve, Ed. Imprensa Nacional,vol. 4,
+   Lisboa: 38, 45-48, est. 2. 27-29, est. 4. 3.6 </BIBLIO>
+  <BIBLIO> HARBISON, P (1968) Três tipos de machados de bronze do Norte dePortugal e suas prováveis
+   origens, Revista de Guimarães, 78 (1-2), Guimarãespp. 52 </BIBLIO>
+  <BIBLIO> SCHUBART, H. (1971) Acerca de la ceramica del Bronze Tardio en elSur y Oeste peninsular,
+   Trabajos de prehistoria, 8, Madrid, pp. 207</BIBLIO>
+  <BIBLIO> HERNANDO GONZALO, A. (1983) La orfebreria durante el Calcolítico yel Bronce Antígua en la
+   Peninsula Iberica, Trabajos de Prehistoria, 40,Madrid pp. 92-94 </BIBLIO>
+  <BIBLIO> JORGE, S. (1986) Povoados da pré-história recente (IIIº- início doIIº milénios a.C.) da
+   região de Chaves e V.ª Pª de Aguiar (Trás-os-Oontesocidental), Ed. Instituto de Arqueologia da
+   Faculdade de Letras, Porto, 3vols. </BIBLIO>
+  <BIBLIO> ALMEIDA, C. A. B. (1990b) Inventário arqueológico: uma viagem aopassado arqueológico de
+   Balugães, Barcelos-Revista, pp. 133 </BIBLIO>
+  <AUTOR>Ana M. S. Bettencourt </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

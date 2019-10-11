@@ -5,7 +5,7 @@ http.createServer(function (req, res) {
     var partes = req.url.split('/')
     var file = partes[partes.length - 1]
     console.log(file)
-    if (file % 2 == 0 && file <= 244) {
+    if (file <= 244) {
         fs.readFile('files/arq' + file + '.xml', function (err, data) {
             res.writeHead(200, { 'Content-Type': 'text/xml' })
             res.write(data)

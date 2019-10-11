@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Santa Helena; Santa Cruz </IDENTI>
-  <DESCRI>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
-  </DESCRI>
-  <CRONO>Proto-História / Romanização </CRONO>
-  <LUGAR> Castro de Santa Cruz, ou de Santa Helena </LUGAR>
-  <FREGUE> Turiz </FREGUE>
-  <CONCEL> Vila Verde </CONCEL>
-  <CODADM> 031354 </CODADM>
-  <LATITU> 518,3 </LATITU>
-  <LONGIT> 173,5 </LONGIT>
-  <ALTITU> 170m </ALTITU>
-  <ACESSO>O acesso a este povoado faz-se a partir de Turiz.</ACESSO>
-  <QUADRO>.O Monte de Santa Cruz, ou de Santa Helena, corresponde a um pequeno cabeçolocalizado
-   entre a Ribeira de Febros e a Ribeira de Barge.</QUADRO>
-  <TRAARQ>Não são conhecidos trabalhos arqueológicos no local.</TRAARQ>
-  <DESARQ>O povoado encontra-se bastante destruído por sucessivas extracções e roubosde pedra. No
-   entanto, podem ainda observar-se restos de antigos taludesdefensivos a delimitar as plataformas.
-   Na superfície do cabeço aparecempedras revolvidas e fragmentos de tijoleira.</DESARQ>
-  <INTERP>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA> romanizado.</INTERP>
-  <BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização daBacia do Curso do Médio
-   Cávado, Cadernos de Arqueologia - Monogradfias, 5,Universidade do Minho, Braga, pp. 102. </BIBLIO>
+  <IDENTI> Monte de Fornos </IDENTI>
+  <DESCRI> Necrópole megalítica </DESCRI>
+  <CRONO>Pré-História Recente</CRONO>
+  <LUGAR> Monte de Fornos </LUGAR>
+  <FREGUE> Medelo </FREGUE>
+  <CONCEL> Fafe </CONCEL>
+  <CODADM> 030716 </CODADM>
+  <LATITU> 500,6 </LATITU>
+  <LONGIT> 197,2 </LONGIT>
+  <ALTITU> 385m </ALTITU>
+  <ACESSO>Faz-se a partir do Monte das Antas, por caminho florestal. </ACESSO>
+  <DESARQ>Conjunto de dez <LIGA TERMO="mamoa"> mamoas</LIGA> , pertencentes a uma <LIGA TERMO="necrópole"> necrópole</LIGA> megalítica. </DESARQ>
   <AUTOR> Manuela Martins </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

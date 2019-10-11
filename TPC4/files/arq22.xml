@@ -1,46 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI>Monte da Saia; Cidade da citânia; Monte de Fralães </IDENTI>
+  <IDENTI> Castelhão </IDENTI>
   <DESCRI>
-   <LIGA TERMO="povoado fortificado romanizado"> Povoadofortificado</LIGA>
+   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
   </DESCRI>
-  <CRONO> Proto-História / Romanização</CRONO>
-  <LUGAR> Monte da Saia </LUGAR>
-  <FREGUE> Chavão </FREGUE>
-  <CONCEL> Barcelos </CONCEL>
-  <CODADM> 030222 </CODADM>
-  <LATITU> 498,8 </LATITU>
-  <LONGIT> 162,1 </LONGIT>
-  <ALTITU> 303m </ALTITU>
-  <ACESSO>O acesso pode fazer-se a partir de Chorente, ou Chavão, por caminhocarreteiro.</ACESSO>
-  <QUADRO>O Monte da Saia situa-se no limite da bacia do Cávado, com a bacia do rioEste. Na sua
-   vertente NE nasce o rio Covo, que corre para o Cávado; a Este,Sul e Oeste correm vários
-   subafluentes do rio Este. O monte corresponde auma elevação de altitude média, que ocupa uma
-   posição de destaque no relevoda região. </QUADRO>
-  <DESARQ>O povoado nunca foi objecto de escavações arqueológicas sistemáticas, sendoconhecido,
-   sobretudo, a partir de achados ocorridos, ou no seu interior, ounas suas imediações. Possui pelo
-   menos três linhas de muralhas e na suasuperfície recolheram-se abundantes fragmentos de <LIGA TERMO="cerâmica micácea"> cerâmica micácea</LIGA> , de fabrico indígena e de cerâmica
-   romana.Nele foi ainda identificado um <LIGA TERMO="monumento com forno"> monumentocom
-    forno</LIGA> , do mesmo género dos descobertos em Briteiros e em SantaMaria dos Galegos, este
-   último, também no concelho de Barcelos. J. Leite deVasconcelos publicou duas <LIGA TERMO="estela"> estelas</LIGA> aparecidas nosítio do Forno dos Mouros, numa das encostas do monte. Possuem um
-   nicho, comfiguras togadas; as peças deveriam estar relacionadas com o monumento e como
-   forno.</DESARQ>
+  <CRONO> Proto-História</CRONO>
+  <LUGAR> Castelhão</LUGAR>
+  <FREGUE> Barbudo </FREGUE>
+  <CONCEL> Vila Verde </CONCEL>
+  <CODADM> 031306 </CODADM>
+  <LATITU> 520,4 </LATITU>
+  <LONGIT> 172,9 </LONGIT>
+  <ALTITU> 200m </ALTITU>
+  <ACESSO>O acesso a este povoado pode fazer-se a partir do lugar de Barbudo.</ACESSO>
+  <QUADRO>O povoado ocupa um pequeno outeiro, localizado na base da vertente SE doMonte do Barbudo.
+   Apesar da sua baixa altitude domina uma extensa área dovale.</QUADRO>
+  <TRAARQ>Não são conhecidos trabalhos arqueológicos no local.</TRAARQ>
+  <DESARQ>O monte possui boas defesas naturais asseguradas pelo escarpado das suasvertentes. Nos
+   lados oeste e noroeste conservam-se ainda vestígios defossos, bem como restos de fortificações
+   que asseguravam a defesa dessessectores do povoado. Na superfície do cabeço encontram-se
+   fragmentos decerâmica e algumas pedras trabalhadas, que deixam adivinhar a existência
+   deconstruções nas plataformas. No entanto, não se observam quaisqueralinhamentos
+   coerentes.</DESARQ>
   <INTERP>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA> romananizado.</INTERP>
-  <DEPOSI> Museu Nacional de Arqueologia e Etnologia.</DEPOSI>
-  <BIBLIO>TORRES, J. (1876). As ruínas existentes no Monte da Saia, Comércio do Lima,no 52,
-   22/11/1876. </BIBLIO>
-  <BIBLIO>TORRES, J. (1877) As ruínas existentes no Monte da Saia, Comércio do Lima,no 59,
-   10/1/1877. </BIBLIO>
-  <BIBLIO>VASCONCELOS, J. L. (1903). Cidade velha de Santa Luzia, ArqueólogoPortuguês, 8, pp. 376,
-   379. </BIBLIO>
-  <BIBLIO>VASCONCELOS, J. L. (1913). Religiões da Lusitânia, III, Lisboa. pp.510-512;</BIBLIO>
-  <BIBLIO>FONSECA, T. (1948). O concelho de Barcelos Aquém e Além Cávado, Barcelos, 2vol. pp. 121. </BIBLIO>
-  <BIBLIO>GARCIA E BELLIDO (1968). Câmaras funerárias de la Cultura Castrena, ArquivoEspañol de
-   Arqueologia, Madrid, 44 (117-118), pp.33-34; </BIBLIO>
-  <BIBLIO>KALB, PH. (1980b). Zur Atlantichen Bronzezeit in Portugal, Germania, 58,Frankfurt, no. 17. </BIBLIO>
-  <BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Histórico e a Romanização da Bacia doMédio Cávado,
-   Cadernos de Arqueologia - Monografias, 5, Universidade doMinho, Braga, pp. 74. </BIBLIO>
+   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA> proto-histórico.</INTERP>
+  <BIBLIO> CUNHA, A. R.(1975a). Trepando aos montes, O Distrito de Braga, 1(3-4), Braga, pp. 530. </BIBLIO>
+  <BIBLIO> MARTINS, M. (1990). O Povoamento Proto-Histórico e a Romanização daBacia do Curso Médio
+   do Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 96. </BIBLIO>
   <AUTOR> Manuela Martins </AUTOR>
-  <DATA>04-Fev-1998</DATA>
+  <DATA>04-FEV-1998</DATA>
  </ARQELEM>

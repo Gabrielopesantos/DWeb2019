@@ -1,40 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI>Monte da Santinha / Monte de Nossa Senhora da Paz </IDENTI>
-  <DESCRI> Povoado da Pré-História recente; Povoado fortificado</DESCRI>
-  <CRONO> Pré-História Recente / Proto-História</CRONO>
-  <LUGAR/>
-  <FREGUE> Amares </FREGUE>
-  <CONCEL> Amares </CONCEL>
-  <CODADM> 030101 </CODADM>
-  <LATITU>518,3 </LATITU>
-  <LONGIT>182,3 </LONGIT>
-  <ALTITU>195m </ALTITU>
-  <ACESSO> O acesso ao povoado pode fazer-se a partir de Amares por caminhomunicipal até ao alto do
-   monte onde se encontra a Capela da Srª da Paz.</ACESSO>
-  <QUADRO>Outeiro na encosta sudoeste do Monte de Santiago, com boas condiçõesnaturais de defesa e
-   visibilidade sobre o vale do Cávado. Apresenta umaplataforma superior no sentido
-   Nordeste/Sudoeste com afloramentos aNordeste. Vertentes abruptas a Noroeste, Oeste e Sul. </QUADRO>
-  <TRAARQ>Foram realizadas escavações, dirigidas por Ana M. S. Bettencourt, em 1993 e1994. </TRAARQ>
-  <DESARQ>O monte da Santinha foi visitado, em 1943, por Arlindo da Cunha que detectourestos do que
-   interpretou como muralha ciclópica. Esta estrutura adossavaaos vários afloramentos graníticos,
-   ligando-os entre si. Diz, por essaaltura, "Os fragmentos de cerâmica antiga (...) não eram tantos
-   em númeronem tão característicos que logo permitissem uma segura classificação." Maistarde
-   identifica cerâmicas que classifica como "castrejas" e romanas. Nasprospecções e escavações
-   realizadas, pela signatária, na plataforma superiore no início da encosta Sul foram encontrados
-   artefactos atribuíveis a trêsgrandes momentos cronológicos a saber: Calcolítico, Idade do Bronze
-   e Idadedo Ferro. Do período mais antigo apenas se registou espóliodescontextualizado. Da Idade do
-   Bronze, detectaram-se dois momentos deocupação, inseríveis, pela cultura material e pelo
-   radiocarbono, no 1ºquartel do I milénio A.C. Os raros fragmentos integráveis na Idade do
-   Ferro,também descontextualizados, não permitem supor ocupação efectiva, pelo menosneste sector do
-   povoado. Nas restantes zonas do monte, o forte índicearbóreo e arbustivo e as enormes pedreiras
-   impossibilitaram qualquerprospecção. </DESARQ>
-  <INTERP>Povoado pré e proto-histórico. </INTERP>
-  <DEPOSI> Museu D. Diogo de Sousa </DEPOSI>
-  <BIBLIO>MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização da Bacia doCurso do Médio
-   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga. </BIBLIO>
-  <BIBLIO> BETTENCOURT, A. M. S.(1995c) O povoado da Santinha (Amares-Braga),A Idade do Bronze em
-   Portugal. Discursos de Poder, Ed. S. E. C., pp. 60-61</BIBLIO>
-  <AUTOR>Ana M. S. Bettencourt </AUTOR>
+  <IDENTI> Monte Redondo </IDENTI>
+  <DESCRI> Igreja </DESCRI>
+  <CRONO> Idade Média</CRONO>
+  <LUGAR> Monte Redondo </LUGAR>
+  <FREGUE> Monte Redondo </FREGUE>
+  <CONCEL> Arcos de Valdevez </CONCEL>
+  <CODADM> 160122 </CODADM>
+  <LATITU> 542,1 </LATITU>
+  <LONGIT> 173,2 </LONGIT>
+  <ALTITU> 227m </ALTITU>
+  <ACESSO>Junto à aldeia de Monte Redondo. O acesso faz-se por estrada municipal, apartir da estrada
+   nacional EN.303 (ligação Arcos de Valdevez - Paredes deCoura) ou da EN.202 (ligação Arcos de
+   Valdevez - Ponte de Lima). O monumentonão está sinalizado.</ACESSO>
+  <DESARQ>Nas paredes da <LIGA TERMO="nave"> nave</LIGA> da igreja paroquial de S.Bartolomeu de
+   Monte Redondo conservam-se, testemunhando uma antigaedificação românica, vestígios dos paramentos
+   coroados por cachorradas com <LIGA TERMO="modilhão"> modilhões</LIGA> esculpidos, dominando os
+   motivosgeométricos e fitomórficos. É o que resta da edificação medieval,profundamente alterada
+   por sucessivas remodelações, em relação à qual não seconhece qualquer referência ou documento
+   coevo que permita conhecer melhor asua história.</DESARQ>
+  <INTERP>Igreja de fundação medieval.</INTERP>
+  <INTERE>Trata-se de um monumento sem relevância histórica local e de escasso valorcientífico e
+   patrimonial, interessando apenas à compreensão da difusão do <LIGA TERMO="românico">
+    românico</LIGA> na região. </INTERE>
+  <BIBLIO>ALMEIDA,C.A.F (1978a) Arquitectura Românica de Entre Douro e Minho, Tese deDoutoramento
+   (policopiada), Faculdade de Letras da Universidade do Porto,Porto, 1978. </BIBLIO>
+  <BIBLIO> BARREIROS, M.A.(1926)Egrejas e Capelas Romanicas da Ribeira Lima,Edições Marques Abreu,
+   Porto, 1926. </BIBLIO>
+  <AUTOR> Luís Fontes </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

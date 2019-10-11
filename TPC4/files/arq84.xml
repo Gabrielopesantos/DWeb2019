@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Granjinhos, Braga</IDENTI>
-  <DESCRI>
-   <LIGA TERMO="necrópole"> Necrópole</LIGA>
-  </DESCRI>
-  <CRONO> Proto-História </CRONO>
-  <LUGAR/>
-  <FREGUE> S. Lázaro </FREGUE>
-  <CONCEL> Braga </CONCEL>
-  <CODADM> 030342 </CODADM>
-  <LATITU> 508,8 </LATITU>
-  <LONGIT> 175,8 </LONGIT>
-  <ALTITU> 180m </ALTITU>
-  <DESARQ>Em 1993, durante as escavações de emergência, realizadas nos Granjinhos, emBraga, no
-   âmbito do projecto "Salvamento de Bracara Augusta", foramencontrados quatro recipientes
-   subcilíndricos, de fabrico manual com basesde fundo plano. As pastas arenosas, grosseiras e de
-   cor acastanhadaapresentam superfícies alisadas. As condições de jazida deste espóliopermitiram
-   pôr a hipótese de estarmos face a um achado isolado e fora dequalquer contexto doméstico.Análises
-   de material orgânico, em associação com estes vasos e no seuinterior, indicaram percentagens
-   muito altas de fósforo, o que sugere umafuncionalidade sepulcral dos mesmos. Admitimos, assim,
-   estar perante umamanifestação de enterramento, associada ao ritual de incineração e,localizada,
-   aparentemente, fora de qualquer contexto habitacional, maseventualmente relacionável com o
-   povoado da Idade do Bronze que existiria noAlto da Cividade.Genericamente, podemos datar estes
-   recipientes da Idade do Bronze, mas umacronologia mais fina é problemática. Os paralelos formais
-   para estes vasos,bem como o ritual a eles associado, permitem inseri-los, hipoteticamente,entre
-   os meados do IIº e o início do Iº milénio a.C.. </DESARQ>
-  <INTERP>
-   <LIGA TERMO="necrópole"> Necrópole</LIGA> de Idade do Bronze.</INTERP>
-  <DEPOSI>Museu D. Diogo de Sousa, Braga. Números de inventário - 296 a 299. </DEPOSI>
-  <AUTOR> Ana M. S. Bettencourt </AUTOR>
+  <IDENTI> Ponte do Rodeiro </IDENTI>
+  <DESCRI> Ponte </DESCRI>
+  <CRONO> Idade Média</CRONO>
+  <LUGAR> Rodeiro </LUGAR>
+  <FREGUE> Castro Laboreiro </FREGUE>
+  <CONCEL> Melgaço </CONCEL>
+  <CODADM> 160302</CODADM>
+  <LATITU> 564,8 </LATITU>
+  <LONGIT> 199,4 </LONGIT>
+  <ALTITU> 1050m </ALTITU>
+  <ACESSO>No sítio de "Os Colados", no termo da "branda" do Rodeiro, cerca de 3 kms aNordeste de
+   Castro Laboreiro. O acesso faz-se a pé (cerca de 5 minutos)desde o lugar de Rodeiro, onde se
+   chega por estradão municipal alcatroado apartir da EN.202-3. O monumento não está
+   sinalizado.</ACESSO>
+  <DESARQ>Ponte sobre o rio Laboreiro, de um <LIGA TERMO="arco"> arco</LIGA> de voltaperfeita
+   alicerçado na rocha granítica que aflora nas margens, através deparamentos de <LIGA TERMO="aparelho"> aparelho</LIGA> rude em mamposteria decalhaus graníticos mal afeiçoados e
+   miúdos. O aro do arco, que cobre um <LIGA TERMO="triedro"> triedros</LIGA> uperior a 6 metros de
+   comprimento e quase 5metros de altura, apresenta um <LIGA TERMO="aparelho"> aparelho</LIGA>
+   maiscuidado, observando-se no intradorso os orifícios para encaixe do cimbre. Otabuleiro, em
+   cavalete muito pouco pronunciado, é lajeado e guarnecido porguardas pétreas, tem de largura menos
+   de 3 metros e vence um <LIGA TERMO="triedro"> triedro</LIGA> total superior a 8 metros.
+   Encontra-serazoavelmente conservada.</DESARQ>
+  <INTERP>Não sendo uma construção medieval, revela características técnicas e formaisdessa época,
+   particularmente ao nível da armação do arco.</INTERP>
+  <INTERE>Esta ponte fixa uma passagem antiga de relativa importância regional, comoera a ligação
+   setentrional de Castro Laboreiro à Galiza, em direcção aMilmanda. Relaciona-se também com a rede
+   de comunicações vicinais de CastroLaboreiro, servindo as "brandas" a Norte da vila. Embora não se
+   conheçaqualquer referência documental, este monumento tem grande importância para acompreensão da
+   organização do povoamento e comunicações antigas regionais.Contudo, as suas cronologia de
+   duvidosa medievalidade e vulgaridadearquitectónica impedem que se atribua a este monumento um
+   valor patrimonialsignificativo.</INTERE>
+  <BIBLIO>RODRIGUES, A.R. (1985) Pontes Romanas e Românicas de Castro Laboreiro(separata dos
+   "Cadernos da Câmara Municipal de Melgaço, 2), Câmara Municipalde Melgaço, 1985. </BIBLIO>
+  <AUTOR> Luis Fontes </AUTOR>
   <DATA>04-FEV-1998</DATA>
  </ARQELEM>

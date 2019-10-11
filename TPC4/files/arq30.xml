@@ -1,54 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?><ARQELEM>
   <TIPO ASSUNTO="arqueossitio"/>
-  <IDENTI> Monte Castro; Castro Máximo</IDENTI>
+  <IDENTI> Santa Cruz </IDENTI>
   <DESCRI>
-   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+   <LIGA TERMO="miliário"> Miliários</LIGA>
   </DESCRI>
-  <CRONO> Proto-História</CRONO>
-  <LUGAR> Monte Castro; Castro Máximo </LUGAR>
-  <FREGUE> Real </FREGUE>
-  <CONCEL> Braga </CONCEL>
-  <CODADM> 030337 </CODADM>
-  <LATITU> 510,9 </LATITU>
-  <LONGIT> 175,9 </LONGIT>
-  <ALTITU> 198m </ALTITU>
-  <QUADRO>O Monte Castro localiza-se na periferia da área urbana de Braga,constituindo um dos pontos
-   mais elevados da cidade. Encontra-se virado aovale do rio Cávado e domina a vasta e fértil
-   planície que se espraia pelasduas margens do rio. A configuração do monte é actualmente
-   bastanteirregular devido à enorme pedreira aí existente, que destruiu completamentea vertente Sul
-   e ainda boa parte das encostas norte e oeste. Apenas avertente este mantem ainda o seu perfil
-   original, de pendor suave.</QUADRO>
-  <TRAARQ>Tratando-se de um sítio bastante referido na bibliografia, nunca foi objectode escavações
-   sistemáticas, mas apenas de sondagens esporádicas. Destas,destacam-se duas, realizadas em 1977 e
-   1978 pela Unidade de Arqueologia daUniversidade do Minho.</TRAARQ>
-  <DESARQ>O Castro Máximo aparece citado pela primeira vez em documentos medievais(COSTA 1965, 35),
-   sendo referido, também, por Contador de Argote (1744,299). Entre os séculos XIX e XX encontramos
-   inúmeras alusões a achadosocorridos no povoado (FREITAS 1890, 320; BELINO 1909, 5). Carlos
-   Teixeiradescreve-o com certa minúcia (1936=1955-56) afirmando a existência defossos, no lado
-   virado à cidade, admitindo ainda que ele teria duas linhasde muralhas, embora, nessa altura,
-   fosse já difícil seguir-lhes o traçado.Este autor alude, também, ao aparecimento de vestígios de
-   habitaçõescirculares, em pedra, e considera, finalmente, com base nos achadoscerâmicos e
-   metálicos encontrados, que o povoado não foi romanizado. Em 1977e 1978 a Unidade de Arquelogia da
-   Universidade do Minho realizou duassondagens na estação, a última das quais viria a ser
-   sumariamente noticiada(CASTRO et alii 1980, 37-51). Mau grado as inúmeras referências ao
-   povoado,e apesar dos múltiplos achados e, até, das sondagens realizadas, é díficilprecisar a
-   cronologia da ocupação deste sítio e vislumbrar a sua organizaçãodefensiva, ou mesmo considerar
-   com rigor a época do seu abandono. O materialcerâmico conhecido da estação permite admitir,
-   contudo, uma intensa ocupaçãoentre meados do século I a.C. e meados do século I da nossa era,
-   altura emque provavelmente deverá ter sido abandonado. No entanto, os raros vestígiosde louça
-   romana, nomeadamente fragmentos de ânforas e a presença de moedas,levam a admitir a possível
-   coexistência do povoado com a primitiva ocupaçãoromana do sítio da Cividade. </DESARQ>
-  <INTERP> Povoado fortificado proto-histórico.</INTERP>
-  <DEPOSI> Museu D. Diogo de Sousa, Braga; Museu Pio XII, Braga e Museu daSociedade Martins
-   Sarmento, Guimarães.</DEPOSI>
-  <BIBLIO> COSTA, A. J. (1965). Liber Fidei Sanctae Bracarensis Ecclisiae, 1,Braga, pp. 35. </BIBLIO>
-  <BIBLIO> FREITAS, B. S. (1890). Memórias de Braga, 1, Braga., pp.320.</BIBLIO>
-  <BIBLIO> BELINO, A. (1909). Cidades Mortas, Arqueólogo Português, 14, pp. 5.</BIBLIO>
-  <BIBLIO> TEIXEIRA, C. (1936= 1955-56). Subsídios para o estudo daarqueologia bracarense - I. O
-   Monte do Castro ( Castrum Maximum), Anais daFaculdade de Ciências do Porto, Porto, 21 (4), pp.
-   231-254; 1955-56, BracaraAugusta, 6-7, 1-9, (31-34), pp. 17-38. </BIBLIO>
-  <BIBLIO> MARTINS, M. (1990).O Povoamento Proto-Histórico e a Romanização daBacia do Curso Médio do
-   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga , pp.86-87. </BIBLIO>
+  <CRONO>Romanização </CRONO>
+  <LUGAR> Santa Cruz (1km) </LUGAR>
+  <FREGUE> Souto </FREGUE>
+  <CONCEL> Terras de Bouro </CONCEL>
+  <CODADM> 031014 </CODADM>
+  <LATITU> 525 </LATITU>
+  <LONGIT> 182,5 </LONGIT>
+  <ALTITU> 130m </ALTITU>
+  <ACESSO>Os <LIGA TERMO="miliário"> miliários</LIGA> estão actualmente de pé, junto aum caminho de
+   terra batida, aproximadamente a 1km a NE do lugar de SantaCruz. Foram desenterrados por uma
+   máquina e encontravam-se provavelmente insitu. </ACESSO>
+  <DESARQ>No sítio referido estão três <LIGA TERMO="miliário"> miliários</LIGA> inteiros e outros
+   três fragmentados. Em quatro deles é possível ler-se amilha XIV.Miliário de Tito e Domiciano:
+   miliário inteiro, em granito de grão muitogrosso. A inscrição está bem conservada. Data de 80.
+   Altura: 145; diâmetro:50; Letras: 7,5 a 10.IMP(eratore) TITO CAES(are) DIVI VESPASIAN(i) /
+   F(ilio) VESPASIANO AVG(usto)PONT(ifice) MAX(imo) / TRIB(unicia) POT(estate) VIIII (nona)
+   IMP(eratore) XV(decimum quintum) P(atre) P(atriae) CO(n)S(ule) VIII (octavum) / [ET]CAES(are)
+   DIVI VESPASIANI F(ilio) [DOMITIANO] / CO(n)S(ule) VII (septimum)VIA NOVA FACIA /G(aio) CALPETANO
+   RANTIO QVIRIN[ALE] / VALERIO FESTO LEG(ato) AVG(usti)PROPR(aetore) / A BRACARA M(ilia) P(assuum)
+   XIV (tetradecim)Sendo Imperador Tito César Vespasiano, filho do divino Vespasiano,
+   Augusto,pontífice máximo, no seu nono poder tribunício, saudado imperador quinzevezes, pai da
+   pátria, oito vezes cônsul, sendo César o filho do divinoVespasiano (Domiciano), sete vezes
+   cônsul, sendo legado de Augusto epropretor Gaio Calpetano Râncio Quirinal Valério Festo, foi
+   feita a vianova. Desde Braga são catorze milhas.Miliário de Caracala ?: Fragmento de um miliário
+   de granito de grão muitogrosseiro. Inscrição muito gasta e incompleta. Dela resta apenas a
+   partefinal do formulário, característico das inscrições a esse imperador,existentes na mesma via.
+   Datável de 214. Altura: 100; diâmetro: 67; letras:9 a 10..../ PONTIFICI MAX(imo) / TRIB(unicia)
+   POT(estate) XVII (decima septima)IMP(eratori) III (tertium) / CO(n)S(uli) IIII (quartum) P(atri)
+   P(atriae)PROCO(n)S(ul) / BRACARA M(ilia) P(assuum) XIIII (tetradecim)...Pontífice Máximo, no seu
+   décimo sétimo poder tribunício, saudadoimperador três vezes, cônsul pela quarta vez, pai da
+   pátria, procônsul.Desde Braga são catorze milhas.Miliário de Magnêncio (350-353): Completo.
+   Granito de grão fino. Letras bemdesenhadas. Inscrição gasta e de difícil leitura a partir da 3ª
+   linha.Altura: 160; diâmetro: 63; letras: 7,5 a 9.IMP(eratori) CAESARI D(omino) N(ostro) /
+   MAGNENTIO VICTORI TRIVMPHATHORIPER[PETVO] / SEMPER AVGVSTO [INVICTO ?] MAX[IMO] P(ro) P(raetori)
+   /PROCONS(uli) / IMP(eratori) BIS BONO REI[P(ublicae)] NATO / [BRACARA M(ilia)P(assuum) XIIII
+   (tetradecim) ]?Ao imperador César, nosso Senhor Magnêncio, vencedor e triunfador perpétuo,Augusto
+   para sempre invencível (?) máximo, propretor, procônsul, duas vezesimperador, nado para o bem da
+   república. Desde Braga são catorze milhas.Miliário fragmentado: Granito de grão muito grosso.
+   Inscrição muito delida,apenas conservada na parte inferior. Altura: 115; diâmetro: 52; letras: 9
+   a10.../ POTEST[ATE ] / CONS(uli) IIII (QUARTUM) P(atriae) / A[BR]AC[ARA]M(ilia)P(assuum) XIV
+   (tetradecim)... poder tribunício, cônsul pela quarta vez, pai da pátria. Desde Braga sãocatorze
+   milhas.Miliário fragmentado: Granito de grão muito grosso. Inscrição profunda comletras bem
+   marcadas. Altura: 72; diâmetro: 58; letras: 10..../ CO(n)S(uli) III (tertium) P(atri) P(atriae) /
+   BRACARA / M(ilia)P(assuum) XIIII (tetradecim)... no seu terceiro consulado, pai da pátria. Desde
+   Braga são catorzemilhas.Miliário inteiro: Granito de grão muito grosseiro. Superfície
+   muitoalterada. Inscrição muito delida. Altura: 213; diâmetro: 62/63; letras: 10.Miliário
+   fragmentado: Granito de grão médio. Não possui qualquer inscrição.Altura: 95; diâmetro:
+   62.</DESARQ>
+  <INTERP> Conjunto de seis miliários pertencentes Via Nova (Geira), datadosentre o séc. I e IV. </INTERP>
+  <BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização daBacia do Curso do Médio
+   Cávado, Cadernos de Arqueologia - Monografias, 5,Universidade do Minho, Braga, pp. 94-95. </BIBLIO>
   <AUTOR> Manuela Martins </AUTOR>
-  <DATA>04-Fev-1998</DATA>
+  <DATA>04-FEV-1998</DATA>
  </ARQELEM>
