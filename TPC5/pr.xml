@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "file:/C:/Users/gabri/Desktop/DWeb2019/TPC3/pr.dtd">
+<pr>
+    <metadata>
+        <keyname>TPC5_DWEB2019_MEI</keyname>
+        <title>TPC5</title>
+        <subtitle>Servidor nodeJS com template (Pug)</subtitle>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">Professor José Carlos Ramalho</supervisor>
+        <bdate>15/10/2019</bdate>
+        <edate>22/10/2019</edate>
+    </metadata>
+    <workteam>
+        <member>
+            <identifier>PG41076</identifier>
+            <name>João Gabriel Santos</name>
+            <email>pg41076@alunos.uminho.pt</email>
+            <git>https://github.com/gabrielopesantos</git>
+        </member>
+    </workteam>
+    <abstract>
+        <p>Desenvolvimento de um servidor recorrendo às funcionalidades Core do NodeJS, nomeadamente HTTP e FS. Além destas tecnologias, foi utilizado o Pug para gerar um template.</p>
+        <p>Desenvolvimento de uma simples Single Page App que permite ao utilizador adicionar e ver tarefas numa ToDo List</p>
+    </abstract>
+    <deliverables>
+        <deliverable path="?"></deliverable>
+    </deliverables>
+</pr>
