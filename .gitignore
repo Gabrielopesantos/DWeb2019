@@ -1,0 +1,6 @@
+# Ignore Node Modules Folder
+node_modules/
+
+package-lock.json
+
+templates/
