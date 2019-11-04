@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "file:/C:/Users/gabri/Desktop/DWeb2019/TPC3/pr.dtd">
+<pr>
+    <metadata>
+        <keyname>TPC7_DWEB2019_MEI</keyname>
+        <title>TPC7</title>
+        <subtitle>NodeJS Server com MongoDB, ligação mongoose</subtitle>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">Professor José Carlos Ramalho</supervisor>
+        <bdate>28/10/2019</bdate>
+        <edate>05/11/2019</edate>
+    </metadata>
+    <workteam>
+        <member>
+            <identifier>PG41076</identifier>
+            <name>João Gabriel Santos</name>
+            <email>pg41076@alunos.uminho.pt</email>
+            <git>https://github.com/gabrielopesantos</git>
+        </member>
+    </workteam>
+    <abstract>
+        <p>Queries a uma base de dados mongoDB.</p>
+        <p>Desenvolvimento de uma aplicação NodeJS com framework Express para efetuar operações CRUD sobre uma base de dados mongoDB, ligação feita em mongoose.</p>
+    </abstract>
+    <deliverables>
+        <deliverable path="?">Queries.txt</deliverable>
+        <deliverable path="?">node server</deliverable>
+
+    </deliverables>
+</pr>

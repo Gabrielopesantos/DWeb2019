@@ -1,0 +1,24 @@
+extends layout
+
+block content
+    .w3-container
+        h1 Arquivo de Filmes produzidos nos Estados Unidos 1900 - 2019
+        .w3-card-4
+            header.w3-container.w3-teal
+                h3 Novo Filme
+            form.w3-section.w3-container(action='/' method='POST')
+                label.w3-teal
+                    b Titulo
+                input.w3-input.w3-border.w3-light-grey(type='text' name='title' required)
+                label.w3-teal
+                    b Ano
+                input.w3-input.w3-border.w3-light-grey(type='text' name='year' required)
+                label.w3-teal
+                    b Elenco
+                input.w3-input.w3-border.w3-light-grey(type='text' name='cast' required)
+                label.w3-teal
+                    b Género
+                input.w3-input.w3-border.w3-light-grey(type='text' name='genres' required)
+                input.w3-btn.w3-blue-grey.w3-margin-top(type='submit' value='Adicionar')
+            footer.w3-container.w3-teal.w3-padding-16
+                a(href='/filmes/').w3-button.w3-blue-grey Cancelar

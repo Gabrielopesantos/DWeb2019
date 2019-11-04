@@ -1,0 +1,11 @@
+1. Listar os géneros de filmes e indicar quantos há de cada um:
+
+db.filmes.aggregate([ {$unwind: "$genres"}, {$group:{_id:"$genres", count:{$sum:1}}}, {$sort:{count:-1}}])
+
+2. Quais os titulos dos filmes do genero "Drama":
+
+db.filmes.aggregate([{$unwind:"$genres"},{ $match:{genres:"Drama"}},{$project:{_id:0,title:1}}])
+
+3. Quantos atores participam em filmes do genero comedy?
+
+db.filmes.aggregate([{$unwind: "$cast"}, {$unwind: "$genres"}, {$match: {'genres': 'Comedy'}}, {$count: 'Num atores'}])
