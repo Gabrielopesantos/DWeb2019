@@ -6,6 +6,12 @@ db.filmes.aggregate([ {$unwind: "$genres"}, {$group:{_id:"$genres", count:{$sum:
 
 db.filmes.aggregate([{$unwind:"$genres"},{ $match:{genres:"Drama"}},{$project:{_id:0,title:1}}])
 
+3. Que atores participam em filmes do genero comedy?
+
+db.filmes.aggregate([{$unwind: "$genres"},{$unwind: "$cast"},{$match:{genres:"Comedy"}},{$group:{_id:"$cast"}}])
+
+Não sei qual era a questão
+
 3. Quantos atores participam em filmes do genero comedy?
 
 db.filmes.aggregate([{$unwind: "$cast"}, {$unwind: "$genres"}, {$match: {'genres': 'Comedy'}}, {$count: 'Num atores'}])
