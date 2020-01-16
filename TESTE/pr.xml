@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "file:/C:/Users/gabri/Desktop/DWeb2019/TPC3/pr.dtd">
+<pr>
+    <metadata>
+        <keyname>TESTE</keyname>
+        <title>Exame de Avaliação</title>
+        <subtitle></subtitle>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">Professor José Carlos Ramalho</supervisor>
+        <bdate>16/01/2020</bdate>
+        <edate>16/01/2020</edate>
+    </metadata>
+    <workteam>
+        <member>
+            <identifier>PG41076</identifier>
+            <name>João Gabriel Santos</name>
+            <email>pg41076@alunos.uminho.pt</email>
+            <git>https://github.com/gabrielopesantos</git>
+        </member>
+    </workteam>
+    <abstract>
+        <p>Criação de uma API de dados com base num arquivo músical.</p>
+        <p>Criação de uma interface para clav.</p>
+    </abstract>
+    <deliverables>
+    </deliverables>
+</pr>
