@@ -1,0 +1,157 @@
+.colorButtons {
+  background-color: #F58B56;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#publicacoesLayout {
+  background-color: #FFFFFF;
+  border-width: 0;
+}
+
+#gruposLayout {
+  background-color: #FFFFFF;
+  border-width: 0;
+}
+
+#grupoLayout {
+  background-color: #FFFFFF;
+  border-width: 0;
+}
+
+#perfilLayout {
+  background-color: #FFFFFF;
+  border-width: 0;
+}
+
+#mensagensLayout {
+  background-color: #FFFFFF;
+  border-width: 0;
+}
+
+.w3-tag {
+  background-color: #F58B56;
+  border-radius: 8px;
+  border-color: #F58B56;
+  cursor: pointer;
+}
+
+.fileP {
+  cursor: pointer;
+}
+
+.topnav a {
+  cursor: pointer;
+}
+
+.grupo-container {
+  cursor: pointer;
+}
+
+.delete-button {
+  cursor: pointer;
+}
+
+/* notification status */
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+  opacity: 1;
+  transition: opacity 0.6s;
+  /*margin-bottom: 15px;*/
+  top: 20;
+  right: 0;
+  position: fixed
+}
+
+.alert.success {background-color: #4CAF50;}
+.alert.info {background-color: #2196F3;}
+.alert.warning {background-color: #ff9800;}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+/* notification status */
+
+.topnav {
+  overflow: hidden;
+  background-color: #022449;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #F58B56;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: #F27D42;
+  color: white;
+}
+
+.topnav .search-container {
+  float: right;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+.topnav .search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.topnav .search-container button:hover {
+  background: #ccc;
+}
+
+.message-bubble 
+{
+    max-width: 1000px;
+    border-color: #3d6da7 !important;
+    border-radius: 10px !important;
+}
+
+.message-bubble:nth-child(even) {  
+   padding: 10px 0px 10px 0px;
+}
+
+.message-bubble > *
+{
+    padding-left: 10px;
+}
+
+.panel-body { padding: 0px; }
+
+.panel-heading {background-color: #3d6da7 !important; color: white !important; }
